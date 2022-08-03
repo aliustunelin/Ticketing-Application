@@ -1,0 +1,27 @@
+FROM python:3.7-stretch
+
+RUN python3 -m pip install --upgrade pip
+
+RUN pip3 install flask
+
+RUN pip3 install lxml
+RUN pip3 install flask
+RUN pip3 install requests
+RUN pip3 install psycopg2
+
+COPY web_service.py .
+COPY main.py .
+COPY bargainSearch.py .
+COPY connectedFlights.py .
+COPY prices.py .
+COPY test1.py .
+COPY airports/ /airports/
+COPY auth/ /auth/
+COPY db/ /db/
+COPY parsedData/ /parsedData/
+COPY concentrateFlights.py .
+COPY logger.py .
+
+EXPOSE 8000
+
+ENTRYPOINT ["python3", "web_service.py"]

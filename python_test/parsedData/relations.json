@@ -1,0 +1,4931 @@
+[
+  {
+    "flightRef": 12,
+    "flightType": "direct",
+    "priceDetails": {
+      "id": 1,
+      "legs": [
+        {
+          "ref": 12
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "QR",
+          "eTicketable": true,
+          "governingCarriers": "QR",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 15,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "N",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 48
+                },
+                {
+                  "ref": 11
+                },
+                {
+                  "ref": 56
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 14
+                },
+                {
+                  "ref": 11
+                },
+                {
+                  "ref": 18
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 230,
+                "taxAmount": 121.03,
+                "totalFare": 351.03,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "QR",
+                  "segments": [
+                    {
+                      "id": 0
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 11
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 230,
+          "taxAmount": 121.03,
+          "totalPrice": 351.03,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 28,
+    "flightType": "direct",
+    "priceDetails": {
+      "id": 2,
+      "legs": [
+        {
+          "ref": 28
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "QR",
+          "eTicketable": true,
+          "governingCarriers": "QR",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 15,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "N",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 48
+                },
+                {
+                  "ref": 11
+                },
+                {
+                  "ref": 56
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 14
+                },
+                {
+                  "ref": 11
+                },
+                {
+                  "ref": 18
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 230,
+                "taxAmount": 121.03,
+                "totalFare": 351.03,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "QR",
+                  "segments": [
+                    {
+                      "id": 0
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 11
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 230,
+          "taxAmount": 121.03,
+          "totalPrice": 351.03,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 2,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 3,
+      "legs": [
+        {
+          "ref": 2
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "WY",
+          "eTicketable": true,
+          "governingCarriers": "WY",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": true,
+              "fareComponents": [
+                {
+                  "ref": 22,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "N",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 9
+                      }
+                    },
+                    {
+                      "segment": {
+                        "bookingCode": "N",
+                        "cabinCode": "Y",
+                        "seatsAvailable": 4,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 25
+                },
+                {
+                  "ref": 37
+                },
+                {
+                  "ref": 42
+                },
+                {
+                  "ref": 19
+                },
+                {
+                  "ref": 36
+                },
+                {
+                  "ref": 32
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 24
+                },
+                {
+                  "ref": 36
+                },
+                {
+                  "ref": 31
+                },
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 46
+                },
+                {
+                  "ref": 23
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 203,
+                "taxAmount": 184.75,
+                "totalFare": 387.75,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "WY",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 4
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 203,
+          "taxAmount": 184.75,
+          "totalPrice": 387.75,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 29,
+    "flightType": "direct",
+    "priceDetails": {
+      "id": 4,
+      "legs": [
+        {
+          "ref": 29
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "TK",
+          "eTicketable": true,
+          "governingCarriers": "TK",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": true,
+              "fareComponents": [
+                {
+                  "ref": 3,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "Q",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 48
+                },
+                {
+                  "ref": 51
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 14
+                },
+                {
+                  "ref": 40
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 301,
+                "taxAmount": 88.15,
+                "totalFare": 389.15,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "TK",
+                  "segments": [
+                    {
+                      "id": 0
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 8
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 301,
+          "taxAmount": 88.15,
+          "totalPrice": 389.15,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 26,
+    "flightType": "direct",
+    "priceDetails": {
+      "id": 5,
+      "legs": [
+        {
+          "ref": 26
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "TK",
+          "eTicketable": true,
+          "governingCarriers": "TK",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": true,
+              "fareComponents": [
+                {
+                  "ref": 3,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "Q",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 48
+                },
+                {
+                  "ref": 51
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 14
+                },
+                {
+                  "ref": 40
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 301,
+                "taxAmount": 88.15,
+                "totalFare": 389.15,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "TK",
+                  "segments": [
+                    {
+                      "id": 0
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 8
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 301,
+          "taxAmount": 88.15,
+          "totalPrice": 389.15,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 21,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 6,
+      "legs": [
+        {
+          "ref": 21
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "RJ",
+          "eTicketable": true,
+          "governingCarriers": "RJ",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 5,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "M",
+                        "cabinCode": "Y",
+                        "mealCode": "S",
+                        "seatsAvailable": 9
+                      }
+                    },
+                    {
+                      "segment": {
+                        "bookingCode": "M",
+                        "cabinCode": "Y",
+                        "mealCode": "S",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 12
+                },
+                {
+                  "ref": 62
+                },
+                {
+                  "ref": 55
+                },
+                {
+                  "ref": 18
+                },
+                {
+                  "ref": 34
+                },
+                {
+                  "ref": 60
+                },
+                {
+                  "ref": 7
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 12
+                },
+                {
+                  "ref": 49
+                },
+                {
+                  "ref": 48
+                },
+                {
+                  "ref": 6
+                },
+                {
+                  "ref": 42
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 244,
+                "taxAmount": 150.05,
+                "totalFare": 394.05,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "RJ",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 7
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 244,
+          "taxAmount": 150.05,
+          "totalPrice": 394.05,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 32,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 7,
+      "legs": [
+        {
+          "ref": 32
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "EY",
+          "eTicketable": true,
+          "governingCarriers": "EY",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 19,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "Q",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 9
+                      }
+                    },
+                    {
+                      "segment": {
+                        "bookingCode": "Q",
+                        "cabinCode": "Y",
+                        "mealCode": "R",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 53
+                },
+                {
+                  "ref": 30
+                },
+                {
+                  "ref": 40
+                },
+                {
+                  "ref": 13
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 38
+                },
+                {
+                  "ref": 41
+                },
+                {
+                  "ref": 27
+                },
+                {
+                  "ref": 30
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 311,
+                "taxAmount": 120.05,
+                "totalFare": 431.05,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "EY",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 6
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 311,
+          "taxAmount": 120.05,
+          "totalPrice": 431.05,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 22,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 8,
+      "legs": [
+        {
+          "ref": 22
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "KU",
+          "eTicketable": true,
+          "governingCarriers": "KU",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 10,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "T",
+                        "cabinCode": "Y",
+                        "mealCode": "BM",
+                        "seatsAvailable": 4
+                      }
+                    },
+                    {
+                      "segment": {
+                        "bookingCode": "T",
+                        "cabinCode": "Y",
+                        "mealCode": "BM",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 46
+                },
+                {
+                  "ref": 26
+                },
+                {
+                  "ref": 27
+                },
+                {
+                  "ref": 45
+                },
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 65
+                },
+                {
+                  "ref": 67
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 43
+                },
+                {
+                  "ref": 25
+                },
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 35
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 28
+                },
+                {
+                  "ref": 53
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 435,
+                "taxAmount": 46.55,
+                "totalFare": 481.55,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "KU",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 435,
+          "taxAmount": 46.55,
+          "totalPrice": 481.55,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 7,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 9,
+      "legs": [
+        {
+          "ref": 7
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "KU",
+          "eTicketable": true,
+          "governingCarriers": "KU",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 12,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "T",
+                        "cabinCode": "Y",
+                        "mealCode": "BM",
+                        "seatsAvailable": 9
+                      }
+                    },
+                    {
+                      "segment": {
+                        "bookingCode": "T",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 46
+                },
+                {
+                  "ref": 26
+                },
+                {
+                  "ref": 27
+                },
+                {
+                  "ref": 45
+                },
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 65
+                },
+                {
+                  "ref": 67
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 43
+                },
+                {
+                  "ref": 25
+                },
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 35
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 28
+                },
+                {
+                  "ref": 53
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 450,
+                "taxAmount": 46.55,
+                "totalFare": 496.55,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "KU",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 450,
+          "taxAmount": 46.55,
+          "totalPrice": 496.55,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 33,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 10,
+      "legs": [
+        {
+          "ref": 33
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "KU",
+          "eTicketable": true,
+          "governingCarriers": "KU",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 1,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "Z",
+                        "cabinCode": "Y",
+                        "mealCode": "BM",
+                        "seatsAvailable": 4
+                      }
+                    },
+                    {
+                      "segment": {
+                        "bookingCode": "Z",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 46
+                },
+                {
+                  "ref": 26
+                },
+                {
+                  "ref": 27
+                },
+                {
+                  "ref": 45
+                },
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 65
+                },
+                {
+                  "ref": 67
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 43
+                },
+                {
+                  "ref": 25
+                },
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 35
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 28
+                },
+                {
+                  "ref": 53
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 508,
+                "taxAmount": 46.55,
+                "totalFare": 554.55,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "KU",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 508,
+          "taxAmount": 46.55,
+          "totalPrice": 554.55,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 1,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 11,
+      "legs": [
+        {
+          "ref": 1
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "EK",
+          "eTicketable": true,
+          "governingCarriers": "EK",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 6,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "K",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 7
+                      }
+                    },
+                    {
+                      "segment": {
+                        "bookingCode": "R",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 7,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 22
+                },
+                {
+                  "ref": 33
+                },
+                {
+                  "ref": 35
+                },
+                {
+                  "ref": 10
+                },
+                {
+                  "ref": 9
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 34
+                },
+                {
+                  "ref": 9
+                },
+                {
+                  "ref": 50
+                },
+                {
+                  "ref": 37
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 528,
+                "taxAmount": 87.25,
+                "totalFare": 615.25,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "EK",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 10
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 528,
+          "taxAmount": 87.25,
+          "totalPrice": 615.25,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 39,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 12,
+      "legs": [
+        {
+          "ref": 39
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "EK",
+          "eTicketable": true,
+          "governingCarriers": "EK",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 6,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "K",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 7
+                      }
+                    },
+                    {
+                      "segment": {
+                        "bookingCode": "R",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 7,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 22
+                },
+                {
+                  "ref": 33
+                },
+                {
+                  "ref": 35
+                },
+                {
+                  "ref": 10
+                },
+                {
+                  "ref": 9
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 34
+                },
+                {
+                  "ref": 9
+                },
+                {
+                  "ref": 50
+                },
+                {
+                  "ref": 37
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 528,
+                "taxAmount": 87.25,
+                "totalFare": 615.25,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "EK",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 10
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 528,
+          "taxAmount": 87.25,
+          "totalPrice": 615.25,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 18,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 13,
+      "legs": [
+        {
+          "ref": 18
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "BA",
+          "eTicketable": true,
+          "governingCarriers": "BA",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": true,
+              "fareComponents": [
+                {
+                  "ref": 17,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "S",
+                        "cabinCode": "Y",
+                        "mealCode": "G",
+                        "seatsAvailable": 9
+                      }
+                    },
+                    {
+                      "segment": {
+                        "bookingCode": "V",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 21
+                },
+                {
+                  "ref": 28
+                },
+                {
+                  "ref": 31
+                },
+                {
+                  "ref": 20
+                },
+                {
+                  "ref": 2
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 15
+                },
+                {
+                  "ref": 19
+                },
+                {
+                  "ref": 29
+                },
+                {
+                  "ref": 10
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 522,
+                "taxAmount": 224.25,
+                "totalFare": 746.25,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "BA",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 14
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 522,
+          "taxAmount": 224.25,
+          "totalPrice": 746.25,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 17,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 14,
+      "legs": [
+        {
+          "ref": 17
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "BA",
+          "eTicketable": true,
+          "governingCarriers": "BA",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": true,
+              "fareComponents": [
+                {
+                  "ref": 17,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "S",
+                        "cabinCode": "Y",
+                        "mealCode": "G",
+                        "seatsAvailable": 9
+                      }
+                    },
+                    {
+                      "segment": {
+                        "bookingCode": "V",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 21
+                },
+                {
+                  "ref": 28
+                },
+                {
+                  "ref": 31
+                },
+                {
+                  "ref": 20
+                },
+                {
+                  "ref": 2
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 15
+                },
+                {
+                  "ref": 19
+                },
+                {
+                  "ref": 29
+                },
+                {
+                  "ref": 10
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 522,
+                "taxAmount": 224.25,
+                "totalFare": 746.25,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "BA",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 14
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 522,
+          "taxAmount": 224.25,
+          "totalPrice": 746.25,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 5,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 15,
+      "legs": [
+        {
+          "ref": 5
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "BA",
+          "eTicketable": true,
+          "governingCarriers": "BA",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": true,
+              "fareComponents": [
+                {
+                  "ref": 17,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "S",
+                        "cabinCode": "Y",
+                        "mealCode": "G",
+                        "seatsAvailable": 9
+                      }
+                    },
+                    {
+                      "segment": {
+                        "bookingCode": "V",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 21
+                },
+                {
+                  "ref": 28
+                },
+                {
+                  "ref": 31
+                },
+                {
+                  "ref": 20
+                },
+                {
+                  "ref": 2
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 15
+                },
+                {
+                  "ref": 19
+                },
+                {
+                  "ref": 29
+                },
+                {
+                  "ref": 10
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 522,
+                "taxAmount": 224.25,
+                "totalFare": 746.25,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "BA",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 14
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 522,
+          "taxAmount": 224.25,
+          "totalPrice": 746.25,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 19,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 16,
+      "legs": [
+        {
+          "ref": 19
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "BA",
+          "eTicketable": true,
+          "governingCarriers": "BA",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": true,
+              "fareComponents": [
+                {
+                  "ref": 17,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "S",
+                        "cabinCode": "Y",
+                        "mealCode": "G",
+                        "seatsAvailable": 9
+                      }
+                    },
+                    {
+                      "segment": {
+                        "bookingCode": "V",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 21
+                },
+                {
+                  "ref": 28
+                },
+                {
+                  "ref": 31
+                },
+                {
+                  "ref": 20
+                },
+                {
+                  "ref": 2
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 15
+                },
+                {
+                  "ref": 19
+                },
+                {
+                  "ref": 29
+                },
+                {
+                  "ref": 10
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 522,
+                "taxAmount": 224.25,
+                "totalFare": 746.25,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "BA",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 14
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 522,
+          "taxAmount": 224.25,
+          "totalPrice": 746.25,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 30,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 17,
+      "legs": [
+        {
+          "ref": 30
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "MH",
+          "eTicketable": true,
+          "governingCarriers": "MH",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 11,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "N",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 4
+                      }
+                    }
+                  ]
+                },
+                {
+                  "ref": 14,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "Q",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 6
+                },
+                {
+                  "ref": 59
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 7
+                },
+                {
+                  "ref": 26
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 760,
+                "taxAmount": 179.15,
+                "totalFare": 939.15,
+                "currency": "USD"
+              },
+              "baggageInformation": {}
+            }
+          ],
+          "baseFare": 760,
+          "taxAmount": 179.15,
+          "totalPrice": 939.15,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 8,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 18,
+      "legs": [
+        {
+          "ref": 8
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "ME",
+          "eTicketable": true,
+          "governingCarriers": "ME",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 18,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "B",
+                        "cabinCode": "Y",
+                        "seatsAvailable": 6,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "ref": 20,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "Z",
+                        "cabinCode": "C",
+                        "mealCode": "H",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 29
+                },
+                {
+                  "ref": 15
+                },
+                {
+                  "ref": 64
+                },
+                {
+                  "ref": 43
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 17
+                },
+                {
+                  "ref": 33
+                },
+                {
+                  "ref": 22
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 926,
+                "taxAmount": 129.95,
+                "totalFare": 1055.95,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "ME",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 13
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 926,
+          "taxAmount": 129.95,
+          "totalPrice": 1055.95,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 35,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 19,
+      "legs": [
+        {
+          "ref": 35
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "ME",
+          "eTicketable": true,
+          "governingCarriers": "ME",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 18,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "B",
+                        "cabinCode": "Y",
+                        "seatsAvailable": 6,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "ref": 20,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "Z",
+                        "cabinCode": "C",
+                        "mealCode": "H",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 29
+                },
+                {
+                  "ref": 15
+                },
+                {
+                  "ref": 64
+                },
+                {
+                  "ref": 43
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 17
+                },
+                {
+                  "ref": 33
+                },
+                {
+                  "ref": 22
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 926,
+                "taxAmount": 129.95,
+                "totalFare": 1055.95,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "ME",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 13
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 926,
+          "taxAmount": 129.95,
+          "totalPrice": 1055.95,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 36,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 20,
+      "legs": [
+        {
+          "ref": 36
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "ME",
+          "eTicketable": true,
+          "governingCarriers": "ME",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 18,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "B",
+                        "cabinCode": "Y",
+                        "mealCode": "S",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "ref": 20,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "Z",
+                        "cabinCode": "C",
+                        "mealCode": "H",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 29
+                },
+                {
+                  "ref": 15
+                },
+                {
+                  "ref": 64
+                },
+                {
+                  "ref": 43
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 17
+                },
+                {
+                  "ref": 33
+                },
+                {
+                  "ref": 22
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 926,
+                "taxAmount": 129.95,
+                "totalFare": 1055.95,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "ME",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 13
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 926,
+          "taxAmount": 129.95,
+          "totalPrice": 1055.95,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 13,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 21,
+      "legs": [
+        {
+          "ref": 13
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "ME",
+          "eTicketable": true,
+          "governingCarriers": "ME",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 18,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "B",
+                        "cabinCode": "Y",
+                        "mealCode": "S",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "ref": 20,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "Z",
+                        "cabinCode": "C",
+                        "mealCode": "H",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 29
+                },
+                {
+                  "ref": 15
+                },
+                {
+                  "ref": 64
+                },
+                {
+                  "ref": 43
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 17
+                },
+                {
+                  "ref": 33
+                },
+                {
+                  "ref": 22
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 926,
+                "taxAmount": 129.95,
+                "totalFare": 1055.95,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "ME",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 13
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 926,
+          "taxAmount": 129.95,
+          "totalPrice": 1055.95,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 16,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 22,
+      "legs": [
+        {
+          "ref": 16
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "ME",
+          "eTicketable": true,
+          "governingCarriers": "ME",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 18,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "B",
+                        "cabinCode": "Y",
+                        "mealCode": "S",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "ref": 20,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "Z",
+                        "cabinCode": "C",
+                        "mealCode": "H",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 29
+                },
+                {
+                  "ref": 15
+                },
+                {
+                  "ref": 64
+                },
+                {
+                  "ref": 43
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 17
+                },
+                {
+                  "ref": 33
+                },
+                {
+                  "ref": 22
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 926,
+                "taxAmount": 129.95,
+                "totalFare": 1055.95,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "ME",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 13
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 926,
+          "taxAmount": 129.95,
+          "totalPrice": 1055.95,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 4,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 23,
+      "legs": [
+        {
+          "ref": 4
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "ME",
+          "eTicketable": true,
+          "governingCarriers": "ME",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 18,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "B",
+                        "cabinCode": "Y",
+                        "mealCode": "S",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "ref": 20,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "Z",
+                        "cabinCode": "C",
+                        "mealCode": "H",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 29
+                },
+                {
+                  "ref": 15
+                },
+                {
+                  "ref": 64
+                },
+                {
+                  "ref": 43
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 17
+                },
+                {
+                  "ref": 33
+                },
+                {
+                  "ref": 22
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 926,
+                "taxAmount": 129.95,
+                "totalFare": 1055.95,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "ME",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 13
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 926,
+          "taxAmount": 129.95,
+          "totalPrice": 1055.95,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 24,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 24,
+      "legs": [
+        {
+          "ref": 24
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "ME",
+          "eTicketable": true,
+          "governingCarriers": "ME",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 18,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "B",
+                        "cabinCode": "Y",
+                        "seatsAvailable": 6,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "ref": 20,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "Z",
+                        "cabinCode": "C",
+                        "mealCode": "H",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 29
+                },
+                {
+                  "ref": 15
+                },
+                {
+                  "ref": 64
+                },
+                {
+                  "ref": 54
+                },
+                {
+                  "ref": 43
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 17
+                },
+                {
+                  "ref": 33
+                },
+                {
+                  "ref": 47
+                },
+                {
+                  "ref": 22
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 926,
+                "taxAmount": 179.95,
+                "totalFare": 1105.95,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "ME",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 13
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 926,
+          "taxAmount": 179.95,
+          "totalPrice": 1105.95,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 11,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 25,
+      "legs": [
+        {
+          "ref": 11
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "ME",
+          "eTicketable": true,
+          "governingCarriers": "ME",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 23,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "I",
+                        "cabinCode": "C",
+                        "mealCode": "S",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "ref": 13,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "U",
+                        "cabinCode": "Y",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 29
+                },
+                {
+                  "ref": 15
+                },
+                {
+                  "ref": 64
+                },
+                {
+                  "ref": 43
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 17
+                },
+                {
+                  "ref": 33
+                },
+                {
+                  "ref": 22
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 1009,
+                "taxAmount": 129.95,
+                "totalFare": 1138.95,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "ME",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 12
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 1009,
+          "taxAmount": 129.95,
+          "totalPrice": 1138.95,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 38,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 26,
+      "legs": [
+        {
+          "ref": 38
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "ME",
+          "eTicketable": true,
+          "governingCarriers": "ME",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 23,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "I",
+                        "cabinCode": "C",
+                        "mealCode": "S",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "ref": 13,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "U",
+                        "cabinCode": "Y",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 29
+                },
+                {
+                  "ref": 15
+                },
+                {
+                  "ref": 64
+                },
+                {
+                  "ref": 43
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 17
+                },
+                {
+                  "ref": 33
+                },
+                {
+                  "ref": 22
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 1009,
+                "taxAmount": 129.95,
+                "totalFare": 1138.95,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "ME",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 12
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 1009,
+          "taxAmount": 129.95,
+          "totalPrice": 1138.95,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 3,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 27,
+      "legs": [
+        {
+          "ref": 3
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "ME",
+          "eTicketable": true,
+          "governingCarriers": "ME",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 23,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "I",
+                        "cabinCode": "C",
+                        "seatsAvailable": 4,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "ref": 13,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "U",
+                        "cabinCode": "Y",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 29
+                },
+                {
+                  "ref": 15
+                },
+                {
+                  "ref": 64
+                },
+                {
+                  "ref": 43
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 17
+                },
+                {
+                  "ref": 33
+                },
+                {
+                  "ref": 22
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 1009,
+                "taxAmount": 129.95,
+                "totalFare": 1138.95,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "ME",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 12
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 1009,
+          "taxAmount": 129.95,
+          "totalPrice": 1138.95,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 27,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 28,
+      "legs": [
+        {
+          "ref": 27
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "ME",
+          "eTicketable": true,
+          "governingCarriers": "ME",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 23,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "I",
+                        "cabinCode": "C",
+                        "seatsAvailable": 4,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "ref": 13,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "U",
+                        "cabinCode": "Y",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 29
+                },
+                {
+                  "ref": 15
+                },
+                {
+                  "ref": 64
+                },
+                {
+                  "ref": 43
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 17
+                },
+                {
+                  "ref": 33
+                },
+                {
+                  "ref": 22
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 1009,
+                "taxAmount": 129.95,
+                "totalFare": 1138.95,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "ME",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 12
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 1009,
+          "taxAmount": 129.95,
+          "totalPrice": 1138.95,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 14,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 29,
+      "legs": [
+        {
+          "ref": 14
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "ME",
+          "eTicketable": true,
+          "governingCarriers": "ME",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 23,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "I",
+                        "cabinCode": "C",
+                        "seatsAvailable": 4,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "ref": 13,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "U",
+                        "cabinCode": "Y",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 29
+                },
+                {
+                  "ref": 15
+                },
+                {
+                  "ref": 64
+                },
+                {
+                  "ref": 43
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 17
+                },
+                {
+                  "ref": 33
+                },
+                {
+                  "ref": 22
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 1009,
+                "taxAmount": 129.95,
+                "totalFare": 1138.95,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "ME",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 12
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 1009,
+          "taxAmount": 129.95,
+          "totalPrice": 1138.95,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 23,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 30,
+      "legs": [
+        {
+          "ref": 23
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "ME",
+          "eTicketable": true,
+          "governingCarriers": "ME",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 23,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "I",
+                        "cabinCode": "C",
+                        "mealCode": "S",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "ref": 13,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "U",
+                        "cabinCode": "Y",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 29
+                },
+                {
+                  "ref": 15
+                },
+                {
+                  "ref": 64
+                },
+                {
+                  "ref": 54
+                },
+                {
+                  "ref": 43
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 17
+                },
+                {
+                  "ref": 33
+                },
+                {
+                  "ref": 47
+                },
+                {
+                  "ref": 22
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 1009,
+                "taxAmount": 179.95,
+                "totalFare": 1188.95,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "ME",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 12
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 1009,
+          "taxAmount": 179.95,
+          "totalPrice": 1188.95,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 10,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 31,
+      "legs": [
+        {
+          "ref": 10
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "EY",
+          "eTicketable": true,
+          "governingCarriers": "LH",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 4,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "Y",
+                        "cabinCode": "Y",
+                        "mealCode": "S",
+                        "seatsAvailable": 4
+                      }
+                    }
+                  ]
+                },
+                {
+                  "ref": 8,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "Y",
+                        "cabinCode": "Y",
+                        "mealCode": "R",
+                        "seatsAvailable": 4
+                      }
+                    },
+                    {
+                      "segment": {
+                        "bookingCode": "H",
+                        "cabinCode": "Y",
+                        "mealCode": "R",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 8
+                },
+                {
+                  "ref": 63
+                },
+                {
+                  "ref": 53
+                },
+                {
+                  "ref": 30
+                },
+                {
+                  "ref": 40
+                },
+                {
+                  "ref": 23
+                },
+                {
+                  "ref": 57
+                },
+                {
+                  "ref": 17
+                },
+                {
+                  "ref": 61
+                },
+                {
+                  "ref": 52
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 51
+                },
+                {
+                  "ref": 38
+                },
+                {
+                  "ref": 41
+                },
+                {
+                  "ref": 27
+                },
+                {
+                  "ref": 20
+                },
+                {
+                  "ref": 16
+                },
+                {
+                  "ref": 2
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 3893,
+                "taxAmount": 287.35,
+                "totalFare": 4180.35,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "LH",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    },
+                    {
+                      "id": 2
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 3
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 3893,
+          "taxAmount": 287.35,
+          "totalPrice": 4180.35,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 34,
+    "flightType": "direct",
+    "priceDetails": {
+      "id": 1,
+      "legs": [
+        {
+          "ref": 34
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "PC",
+          "eTicketable": true,
+          "governingCarriers": "PC",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": true,
+              "fareComponents": [
+                {
+                  "ref": 24,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "G",
+                        "cabinCode": "Y",
+                        "seatsAvailable": 4,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 44
+                },
+                {
+                  "ref": 49
+                },
+                {
+                  "ref": 14
+                },
+                {
+                  "ref": 4
+                },
+                {
+                  "ref": 47
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 44
+                },
+                {
+                  "ref": 4
+                },
+                {
+                  "ref": 13
+                },
+                {
+                  "ref": 53
+                },
+                {
+                  "ref": 32
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 107,
+                "taxAmount": 51.25,
+                "totalFare": 158.25,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "PC",
+                  "segments": [
+                    {
+                      "id": 0
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 5
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 107,
+          "taxAmount": 51.25,
+          "totalPrice": 158.25,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 15,
+    "flightType": "direct",
+    "priceDetails": {
+      "id": 2,
+      "legs": [
+        {
+          "ref": 15
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "PC",
+          "eTicketable": true,
+          "governingCarriers": "PC",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": true,
+              "fareComponents": [
+                {
+                  "ref": 24,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "G",
+                        "cabinCode": "Y",
+                        "seatsAvailable": 4,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 44
+                },
+                {
+                  "ref": 49
+                },
+                {
+                  "ref": 14
+                },
+                {
+                  "ref": 4
+                },
+                {
+                  "ref": 47
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 44
+                },
+                {
+                  "ref": 4
+                },
+                {
+                  "ref": 13
+                },
+                {
+                  "ref": 53
+                },
+                {
+                  "ref": 32
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 107,
+                "taxAmount": 51.25,
+                "totalFare": 158.25,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "PC",
+                  "segments": [
+                    {
+                      "id": 0
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 5
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 107,
+          "taxAmount": 51.25,
+          "totalPrice": 158.25,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 31,
+    "flightType": "direct",
+    "priceDetails": {
+      "id": 3,
+      "legs": [
+        {
+          "ref": 31
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "QR",
+          "eTicketable": true,
+          "governingCarriers": "QR",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 9,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "N",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 44
+                },
+                {
+                  "ref": 49
+                },
+                {
+                  "ref": 14
+                },
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 3
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 44
+                },
+                {
+                  "ref": 4
+                },
+                {
+                  "ref": 13
+                },
+                {
+                  "ref": 11
+                },
+                {
+                  "ref": 18
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 223,
+                "taxAmount": 115.13,
+                "totalFare": 338.13,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "QR",
+                  "segments": [
+                    {
+                      "id": 0
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 11
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 223,
+          "taxAmount": 115.13,
+          "totalPrice": 338.13,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 20,
+    "flightType": "direct",
+    "priceDetails": {
+      "id": 4,
+      "legs": [
+        {
+          "ref": 20
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "QR",
+          "eTicketable": true,
+          "governingCarriers": "QR",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 9,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "N",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 44
+                },
+                {
+                  "ref": 49
+                },
+                {
+                  "ref": 14
+                },
+                {
+                  "ref": 5
+                },
+                {
+                  "ref": 3
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 44
+                },
+                {
+                  "ref": 4
+                },
+                {
+                  "ref": 13
+                },
+                {
+                  "ref": 11
+                },
+                {
+                  "ref": 18
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 223,
+                "taxAmount": 115.13,
+                "totalFare": 338.13,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "QR",
+                  "segments": [
+                    {
+                      "id": 0
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 11
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 223,
+          "taxAmount": 115.13,
+          "totalPrice": 338.13,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 41,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 5,
+      "legs": [
+        {
+          "ref": 41
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "FZ",
+          "eTicketable": true,
+          "governingCarriers": "FZ",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 2,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "W",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 7
+                      }
+                    },
+                    {
+                      "segment": {
+                        "bookingCode": "W",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 7,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 49
+                },
+                {
+                  "ref": 14
+                },
+                {
+                  "ref": 22
+                },
+                {
+                  "ref": 33
+                },
+                {
+                  "ref": 35
+                },
+                {
+                  "ref": 41
+                },
+                {
+                  "ref": 10
+                },
+                {
+                  "ref": 1
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 44
+                },
+                {
+                  "ref": 13
+                },
+                {
+                  "ref": 34
+                },
+                {
+                  "ref": 9
+                },
+                {
+                  "ref": 50
+                },
+                {
+                  "ref": 37
+                },
+                {
+                  "ref": 3
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 283,
+                "taxAmount": 109.65,
+                "totalFare": 392.65,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "FZ",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 9
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 283,
+          "taxAmount": 109.65,
+          "totalPrice": 392.65,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 9,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 6,
+      "legs": [
+        {
+          "ref": 9
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "FZ",
+          "eTicketable": true,
+          "governingCarriers": "FZ",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 2,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "W",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 7
+                      }
+                    },
+                    {
+                      "segment": {
+                        "bookingCode": "W",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 7,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 49
+                },
+                {
+                  "ref": 14
+                },
+                {
+                  "ref": 22
+                },
+                {
+                  "ref": 33
+                },
+                {
+                  "ref": 35
+                },
+                {
+                  "ref": 41
+                },
+                {
+                  "ref": 10
+                },
+                {
+                  "ref": 1
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 44
+                },
+                {
+                  "ref": 13
+                },
+                {
+                  "ref": 34
+                },
+                {
+                  "ref": 9
+                },
+                {
+                  "ref": 50
+                },
+                {
+                  "ref": 37
+                },
+                {
+                  "ref": 3
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 283,
+                "taxAmount": 109.65,
+                "totalFare": 392.65,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "FZ",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 9
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 283,
+          "taxAmount": 109.65,
+          "totalPrice": 392.65,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 6,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 7,
+      "legs": [
+        {
+          "ref": 6
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "FZ",
+          "eTicketable": true,
+          "governingCarriers": "FZ",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 2,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "W",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 7
+                      }
+                    },
+                    {
+                      "segment": {
+                        "bookingCode": "W",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 7,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 49
+                },
+                {
+                  "ref": 14
+                },
+                {
+                  "ref": 22
+                },
+                {
+                  "ref": 33
+                },
+                {
+                  "ref": 35
+                },
+                {
+                  "ref": 41
+                },
+                {
+                  "ref": 10
+                },
+                {
+                  "ref": 1
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 44
+                },
+                {
+                  "ref": 13
+                },
+                {
+                  "ref": 34
+                },
+                {
+                  "ref": 9
+                },
+                {
+                  "ref": 50
+                },
+                {
+                  "ref": 37
+                },
+                {
+                  "ref": 3
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 283,
+                "taxAmount": 109.65,
+                "totalFare": 392.65,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "FZ",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 9
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 283,
+          "taxAmount": 109.65,
+          "totalPrice": 392.65,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 25,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 8,
+      "legs": [
+        {
+          "ref": 25
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "EK",
+          "eTicketable": true,
+          "governingCarriers": "EK",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": false,
+              "fareComponents": [
+                {
+                  "ref": 6,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "K",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 7
+                      }
+                    },
+                    {
+                      "segment": {
+                        "bookingCode": "R",
+                        "cabinCode": "Y",
+                        "mealCode": "M",
+                        "seatsAvailable": 7,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 49
+                },
+                {
+                  "ref": 14
+                },
+                {
+                  "ref": 22
+                },
+                {
+                  "ref": 33
+                },
+                {
+                  "ref": 35
+                },
+                {
+                  "ref": 41
+                },
+                {
+                  "ref": 10
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 44
+                },
+                {
+                  "ref": 13
+                },
+                {
+                  "ref": 34
+                },
+                {
+                  "ref": 9
+                },
+                {
+                  "ref": 50
+                },
+                {
+                  "ref": 37
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 528,
+                "taxAmount": 81.35,
+                "totalFare": 609.35,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "EK",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 10
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 528,
+          "taxAmount": 81.35,
+          "totalPrice": 609.35,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 37,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 9,
+      "legs": [
+        {
+          "ref": 37
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "HR",
+          "eTicketable": true,
+          "governingCarriers": "NP",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": true,
+              "fareComponents": [
+                {
+                  "ref": 16,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "S",
+                        "cabinCode": "Y",
+                        "mealCode": "S",
+                        "seatsAvailable": 4,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "ref": 21,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "B",
+                        "cabinCode": "Y",
+                        "mealCode": "S",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "ref": 7,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "Q",
+                        "cabinCode": "Y",
+                        "mealCode": "H",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 49
+                },
+                {
+                  "ref": 14
+                },
+                {
+                  "ref": 39
+                },
+                {
+                  "ref": 50
+                },
+                {
+                  "ref": 24
+                },
+                {
+                  "ref": 29
+                },
+                {
+                  "ref": 16
+                },
+                {
+                  "ref": 15
+                },
+                {
+                  "ref": 38
+                },
+                {
+                  "ref": 58
+                },
+                {
+                  "ref": 66
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 44
+                },
+                {
+                  "ref": 13
+                },
+                {
+                  "ref": 39
+                },
+                {
+                  "ref": 45
+                },
+                {
+                  "ref": 21
+                },
+                {
+                  "ref": 33
+                },
+                {
+                  "ref": 17
+                },
+                {
+                  "ref": 1
+                },
+                {
+                  "ref": 52
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 751,
+                "taxAmount": 138.95,
+                "totalFare": 889.95,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "NP",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    },
+                    {
+                      "id": 2
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 2
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 751,
+          "taxAmount": 138.95,
+          "totalPrice": 889.95,
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  {
+    "flightRef": 40,
+    "flightType": "connection",
+    "priceDetails": {
+      "id": 10,
+      "legs": [
+        {
+          "ref": 40
+        }
+      ],
+      "pricingSource": "ADVJR1",
+      "pricingInformation": [
+        {
+          "validatingCarrierCode": "HR",
+          "eTicketable": true,
+          "governingCarriers": "NP",
+          "passengerBasedPricing": [
+            {
+              "passengerType": "ADT",
+              "passengerNumber": 1,
+              "nonRefundable": true,
+              "fareComponents": [
+                {
+                  "ref": 16,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "S",
+                        "cabinCode": "Y",
+                        "mealCode": "S",
+                        "seatsAvailable": 4,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "ref": 21,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "B",
+                        "cabinCode": "Y",
+                        "mealCode": "S",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "ref": 7,
+                  "segments": [
+                    {
+                      "segment": {
+                        "bookingCode": "Q",
+                        "cabinCode": "Y",
+                        "seatsAvailable": 9,
+                        "availabilityBreak": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "taxes": [
+                {
+                  "ref": 49
+                },
+                {
+                  "ref": 14
+                },
+                {
+                  "ref": 39
+                },
+                {
+                  "ref": 50
+                },
+                {
+                  "ref": 24
+                },
+                {
+                  "ref": 29
+                },
+                {
+                  "ref": 16
+                },
+                {
+                  "ref": 15
+                },
+                {
+                  "ref": 38
+                },
+                {
+                  "ref": 58
+                },
+                {
+                  "ref": 66
+                }
+              ],
+              "taxSummaries": [
+                {
+                  "ref": 44
+                },
+                {
+                  "ref": 13
+                },
+                {
+                  "ref": 39
+                },
+                {
+                  "ref": 45
+                },
+                {
+                  "ref": 21
+                },
+                {
+                  "ref": 33
+                },
+                {
+                  "ref": 17
+                },
+                {
+                  "ref": 1
+                },
+                {
+                  "ref": 52
+                }
+              ],
+              "passengerTotalFare": {
+                "baseFare": 751,
+                "taxAmount": 138.95,
+                "totalFare": 889.95,
+                "currency": "USD"
+              },
+              "baggageInformation": [
+                {
+                  "provisionType": "A",
+                  "airlineCode": "NP",
+                  "segments": [
+                    {
+                      "id": 0
+                    },
+                    {
+                      "id": 1
+                    },
+                    {
+                      "id": 2
+                    }
+                  ],
+                  "allowance": {
+                    "ref": 2
+                  }
+                }
+              ]
+            }
+          ],
+          "baseFare": 751,
+          "taxAmount": 138.95,
+          "totalPrice": 889.95,
+          "currency": "USD"
+        }
+      ]
+    }
+  }
+]

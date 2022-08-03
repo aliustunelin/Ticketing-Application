@@ -1,0 +1,5157 @@
+{
+  "flights": {
+    "connections": [
+      {
+        "totalTime": 815,
+        "ref": 1,
+        "flight": [
+          {
+            "id": 42,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1882,
+            "elapsedTime": 270,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "19:25:00+03:00"
+            },
+            "arrival": {
+              "airport": "DXB",
+              "city": "DXB",
+              "country": "AE",
+              "time": "00:55:00+04:00",
+              "terminal": "3",
+              "dateAdjustment": 1
+            },
+            "carrier": {
+              "marketing": "EK",
+              "marketingFlightNumber": 122,
+              "operating": "EK",
+              "operatingFlightNumber": 122,
+              "equipment": {
+                "code": "77W",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          },
+          {
+            "id": 63,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 237,
+            "elapsedTime": 75,
+            "departure": {
+              "airport": "DXB",
+              "city": "DXB",
+              "country": "AE",
+              "time": "08:45:00+04:00",
+              "terminal": "2"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "09:00:00+03:00"
+            },
+            "carrier": {
+              "marketing": "FZ",
+              "marketingFlightNumber": 1,
+              "operating": "FZ",
+              "operatingFlightNumber": 1,
+              "equipment": {
+                "code": "73H",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            },
+            "departureDateAdjustment": 1
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 1026,
+            "taxAmount": 176.1,
+            "totalPrice": 1202.1,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 513,
+                "passengerTax": 88.05,
+                "passengerTotalFare": 601.05,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "K",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 7
+                  },
+                  {
+                    "bookingCode": "R",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 1080,
+        "ref": 2,
+        "flight": [
+          {
+            "id": 22,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 633,
+            "elapsedTime": 115,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "11:20:00+03:00"
+            },
+            "arrival": {
+              "airport": "BEY",
+              "city": "BEY",
+              "country": "LB",
+              "time": "13:15:00+03:00"
+            },
+            "carrier": {
+              "marketing": "ME",
+              "marketingFlightNumber": 266,
+              "operating": "ME",
+              "operatingFlightNumber": 266,
+              "equipment": {
+                "code": "320",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 7,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1131,
+            "elapsedTime": 195,
+            "departure": {
+              "airport": "BEY",
+              "city": "BEY",
+              "country": "LB",
+              "time": "02:05:00+03:00"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "05:20:00+03:00"
+            },
+            "carrier": {
+              "marketing": "ME",
+              "marketingFlightNumber": 4436,
+              "operating": "QR",
+              "operatingFlightNumber": 419,
+              "disclosure": "QR",
+              "equipment": {
+                "code": "333",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            },
+            "departureDateAdjustment": 1
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 2018,
+            "taxAmount": 360.5,
+            "totalPrice": 2378.5,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 1009,
+                "passengerTax": 180.25,
+                "passengerTotalFare": 1189.25,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "I",
+                    "cabinCode": "C",
+                    "mealCode": "S",
+                    "seatsAvailable": 9
+                  },
+                  {
+                    "bookingCode": "U",
+                    "cabinCode": "Y",
+                    "mealCode": "N",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 990,
+        "ref": 3,
+        "flight": [
+          {
+            "id": 19,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 633,
+            "elapsedTime": 115,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "12:50:00+03:00"
+            },
+            "arrival": {
+              "airport": "BEY",
+              "city": "BEY",
+              "country": "LB",
+              "time": "14:45:00+03:00"
+            },
+            "carrier": {
+              "marketing": "ME",
+              "marketingFlightNumber": 2824,
+              "operating": "TK",
+              "operatingFlightNumber": 824,
+              "disclosure": "TK",
+              "equipment": {
+                "code": "332",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          },
+          {
+            "id": 7,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1131,
+            "elapsedTime": 195,
+            "departure": {
+              "airport": "BEY",
+              "city": "BEY",
+              "country": "LB",
+              "time": "02:05:00+03:00"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "05:20:00+03:00"
+            },
+            "carrier": {
+              "marketing": "ME",
+              "marketingFlightNumber": 4436,
+              "operating": "QR",
+              "operatingFlightNumber": 419,
+              "disclosure": "QR",
+              "equipment": {
+                "code": "333",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            },
+            "departureDateAdjustment": 1
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 2018,
+            "taxAmount": 260.5,
+            "totalPrice": 2278.5,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 1009,
+                "passengerTax": 130.25,
+                "passengerTotalFare": 1139.25,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "I",
+                    "cabinCode": "C",
+                    "mealCode": "N",
+                    "seatsAvailable": 4
+                  },
+                  {
+                    "bookingCode": "U",
+                    "cabinCode": "Y",
+                    "mealCode": "N",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 1045,
+        "ref": 4,
+        "flight": [
+          {
+            "id": 39,
+            "frequency": "*MT*T*S",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 2095,
+            "elapsedTime": 295,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "00:55:00+03:00"
+            },
+            "arrival": {
+              "airport": "MCT",
+              "city": "MCT",
+              "country": "OM",
+              "time": "06:50:00+04:00"
+            },
+            "carrier": {
+              "marketing": "WY",
+              "marketingFlightNumber": 166,
+              "operating": "WY",
+              "operatingFlightNumber": 166,
+              "equipment": {
+                "code": "738",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 38,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 438,
+            "elapsedTime": 105,
+            "departure": {
+              "airport": "MCT",
+              "city": "MCT",
+              "country": "OM",
+              "time": "17:35:00+04:00"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "18:20:00+03:00"
+            },
+            "carrier": {
+              "marketing": "WY",
+              "marketingFlightNumber": 5027,
+              "operating": "QR",
+              "operatingFlightNumber": 1127,
+              "disclosure": "QR",
+              "equipment": {
+                "code": "320",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 730,
+            "taxAmount": 370.1,
+            "totalPrice": 1100.1,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 365,
+                "passengerTax": 185.05,
+                "passengerTotalFare": 550.05,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "I",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  },
+                  {
+                    "bookingCode": "I",
+                    "cabinCode": "Y",
+                    "mealCode": "N",
+                    "seatsAvailable": 4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 1280,
+        "ref": 5,
+        "flight": [
+          {
+            "id": 31,
+            "frequency": "**T****",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1550,
+            "elapsedTime": 255,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "08:40:00+03:00"
+            },
+            "arrival": {
+              "airport": "LHR",
+              "city": "LON",
+              "country": "GB",
+              "time": "10:55:00+01:00",
+              "terminal": "5"
+            },
+            "carrier": {
+              "marketing": "BA",
+              "marketingFlightNumber": 675,
+              "operating": "BA",
+              "operatingFlightNumber": 675,
+              "alliances": "OW ",
+              "equipment": {
+                "code": "320",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 34,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 3259,
+            "elapsedTime": 410,
+            "departure": {
+              "airport": "LHR",
+              "city": "LON",
+              "country": "GB",
+              "time": "21:10:00+01:00",
+              "terminal": "5"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "06:00:00+03:00",
+              "dateAdjustment": 1
+            },
+            "carrier": {
+              "marketing": "BA",
+              "marketingFlightNumber": 7002,
+              "operating": "QR",
+              "operatingFlightNumber": 2,
+              "disclosure": "QR",
+              "alliances": "OW ",
+              "equipment": {
+                "code": "77W",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 1044,
+            "taxAmount": 450.7,
+            "totalPrice": 1494.7,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": true,
+                "passengerBaseFare": 522,
+                "passengerTax": 225.35,
+                "passengerTotalFare": 747.35,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "S",
+                    "cabinCode": "Y",
+                    "mealCode": "G",
+                    "seatsAvailable": 9
+                  },
+                  {
+                    "bookingCode": "V",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 495,
+        "ref": 6,
+        "flight": [
+          {
+            "id": 1,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 781,
+            "elapsedTime": 135,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "04:30:00+03:00"
+            },
+            "arrival": {
+              "airport": "CAI",
+              "city": "CAI",
+              "country": "EG",
+              "time": "05:45:00+02:00",
+              "terminal": "3"
+            },
+            "carrier": {
+              "marketing": "MS",
+              "marketingFlightNumber": 746,
+              "operating": "MS",
+              "operatingFlightNumber": 746,
+              "equipment": {
+                "code": "223",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 46,
+            "frequency": "SMTW*FS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 293,
+            "elapsedTime": 75,
+            "departure": {
+              "airport": "CAI",
+              "city": "CAI",
+              "country": "EG",
+              "time": "06:45:00+02:00",
+              "terminal": "3"
+            },
+            "arrival": {
+              "airport": "AMM",
+              "city": "AMM",
+              "country": "JO",
+              "time": "09:00:00+03:00"
+            },
+            "carrier": {
+              "marketing": "MS",
+              "marketingFlightNumber": 719,
+              "operating": "MS",
+              "operatingFlightNumber": 719,
+              "equipment": {
+                "code": "738",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 6,
+            "frequency": "**TW***",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1045,
+            "elapsedTime": 150,
+            "departure": {
+              "airport": "AMM",
+              "city": "AMM",
+              "country": "JO",
+              "time": "10:15:00+03:00"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "12:45:00+03:00"
+            },
+            "carrier": {
+              "marketing": "RJ",
+              "marketingFlightNumber": 652,
+              "operating": "RJ",
+              "operatingFlightNumber": 652,
+              "alliances": "OW ",
+              "equipment": {
+                "code": "321",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            },
+            "departureDateAdjustment": 1
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 2008,
+            "taxAmount": 590.3,
+            "totalPrice": 2598.3,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 1004,
+                "passengerTax": 295.15,
+                "passengerTotalFare": 1299.15,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "K",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  },
+                  {
+                    "bookingCode": "S",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  },
+                  {
+                    "bookingCode": "Q",
+                    "cabinCode": "Y",
+                    "mealCode": "S",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 685,
+        "ref": 7,
+        "flight": [
+          {
+            "id": 52,
+            "frequency": "*MTW**S",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1845,
+            "elapsedTime": 265,
+            "departure": {
+              "airport": "SAW",
+              "city": "IST",
+              "country": "TR",
+              "time": "21:35:00+03:00"
+            },
+            "arrival": {
+              "airport": "DXB",
+              "city": "DXB",
+              "country": "AE",
+              "time": "03:00:00+04:00",
+              "terminal": "2",
+              "dateAdjustment": 1
+            },
+            "carrier": {
+              "marketing": "FZ",
+              "marketingFlightNumber": 752,
+              "operating": "FZ",
+              "operatingFlightNumber": 752,
+              "equipment": {
+                "code": "73H",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 63,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 237,
+            "elapsedTime": 75,
+            "departure": {
+              "airport": "DXB",
+              "city": "DXB",
+              "country": "AE",
+              "time": "08:45:00+04:00",
+              "terminal": "2"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "09:00:00+03:00"
+            },
+            "carrier": {
+              "marketing": "FZ",
+              "marketingFlightNumber": 1,
+              "operating": "FZ",
+              "operatingFlightNumber": 1,
+              "equipment": {
+                "code": "73H",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            },
+            "departureDateAdjustment": 1
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 566,
+            "taxAmount": 220.9,
+            "totalPrice": 786.9,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 283,
+                "passengerTax": 110.45,
+                "passengerTotalFare": 393.45,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "W",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 7
+                  },
+                  {
+                    "bookingCode": "W",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 925,
+        "ref": 8,
+        "flight": [
+          {
+            "id": 39,
+            "frequency": "*MT*T*S",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 2095,
+            "elapsedTime": 295,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "00:55:00+03:00"
+            },
+            "arrival": {
+              "airport": "MCT",
+              "city": "MCT",
+              "country": "OM",
+              "time": "06:50:00+04:00"
+            },
+            "carrier": {
+              "marketing": "WY",
+              "marketingFlightNumber": 166,
+              "operating": "WY",
+              "operatingFlightNumber": 166,
+              "equipment": {
+                "code": "738",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 48,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 438,
+            "elapsedTime": 105,
+            "departure": {
+              "airport": "MCT",
+              "city": "MCT",
+              "country": "OM",
+              "time": "15:35:00+04:00"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "16:20:00+03:00"
+            },
+            "carrier": {
+              "marketing": "WY",
+              "marketingFlightNumber": 5139,
+              "operating": "QR",
+              "operatingFlightNumber": 1139,
+              "disclosure": "QR",
+              "equipment": {
+                "code": "777",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 300,
+            "taxAmount": 370.1,
+            "totalPrice": 670.1,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 150,
+                "passengerTax": 185.05,
+                "passengerTotalFare": 335.05,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "L",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  },
+                  {
+                    "bookingCode": "L",
+                    "cabinCode": "Y",
+                    "mealCode": "N",
+                    "seatsAvailable": 4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 400,
+        "ref": 9,
+        "flight": [
+          {
+            "id": 22,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 633,
+            "elapsedTime": 115,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "11:20:00+03:00"
+            },
+            "arrival": {
+              "airport": "BEY",
+              "city": "BEY",
+              "country": "LB",
+              "time": "13:15:00+03:00"
+            },
+            "carrier": {
+              "marketing": "ME",
+              "marketingFlightNumber": 266,
+              "operating": "ME",
+              "operatingFlightNumber": 266,
+              "equipment": {
+                "code": "320",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 32,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1131,
+            "elapsedTime": 165,
+            "departure": {
+              "airport": "BEY",
+              "city": "BEY",
+              "country": "LB",
+              "time": "15:15:00+03:00"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "18:00:00+03:00"
+            },
+            "carrier": {
+              "marketing": "ME",
+              "marketingFlightNumber": 436,
+              "operating": "ME",
+              "operatingFlightNumber": 436,
+              "equipment": {
+                "code": "320",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 1852,
+            "taxAmount": 260.5,
+            "totalPrice": 2112.5,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 926,
+                "passengerTax": 130.25,
+                "passengerTotalFare": 1056.25,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "B",
+                    "cabinCode": "Y",
+                    "mealCode": "S",
+                    "seatsAvailable": 9
+                  },
+                  {
+                    "bookingCode": "Z",
+                    "cabinCode": "C",
+                    "mealCode": "H",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 575,
+        "ref": 10,
+        "flight": [
+          {
+            "id": 37,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1362,
+            "elapsedTime": 215,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "20:20:00+03:00"
+            },
+            "arrival": {
+              "airport": "KWI",
+              "city": "KWI",
+              "country": "KW",
+              "time": "23:55:00+03:00",
+              "terminal": "1"
+            },
+            "carrier": {
+              "marketing": "KU",
+              "marketingFlightNumber": 6772,
+              "operating": "TK",
+              "operatingFlightNumber": 772,
+              "disclosure": "TK",
+              "equipment": {
+                "code": "332",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          },
+          {
+            "id": 64,
+            "frequency": "*MTWTF*",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 352,
+            "elapsedTime": 95,
+            "departure": {
+              "airport": "KWI",
+              "city": "KWI",
+              "country": "KW",
+              "time": "04:20:00+03:00",
+              "terminal": "4"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "05:55:00+03:00"
+            },
+            "carrier": {
+              "marketing": "KU",
+              "marketingFlightNumber": 621,
+              "operating": "KU",
+              "operatingFlightNumber": 621,
+              "equipment": {
+                "code": "320",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            },
+            "departureDateAdjustment": 1
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 870,
+            "taxAmount": 93.7,
+            "totalPrice": 963.7,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 435,
+                "passengerTax": 46.85,
+                "passengerTotalFare": 481.85,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "T",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 4
+                  },
+                  {
+                    "bookingCode": "T",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 1060,
+        "ref": 11,
+        "flight": [
+          {
+            "id": 24,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1362,
+            "elapsedTime": 220,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "01:30:00+03:00"
+            },
+            "arrival": {
+              "airport": "KWI",
+              "city": "KWI",
+              "country": "KW",
+              "time": "05:10:00+03:00",
+              "terminal": "1"
+            },
+            "carrier": {
+              "marketing": "KU",
+              "marketingFlightNumber": 6770,
+              "operating": "TK",
+              "operatingFlightNumber": 770,
+              "disclosure": "TK",
+              "equipment": {
+                "code": "321",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 30,
+            "frequency": "SMTWT*S",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 352,
+            "elapsedTime": 95,
+            "departure": {
+              "airport": "KWI",
+              "city": "KWI",
+              "country": "KW",
+              "time": "17:35:00+03:00",
+              "terminal": "4"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "19:10:00+03:00"
+            },
+            "carrier": {
+              "marketing": "KU",
+              "marketingFlightNumber": 619,
+              "operating": "KU",
+              "operatingFlightNumber": 619,
+              "equipment": {
+                "code": "77W",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 1016,
+            "taxAmount": 93.7,
+            "totalPrice": 1109.7,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 508,
+                "passengerTax": 46.85,
+                "passengerTotalFare": 554.85,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "Z",
+                    "cabinCode": "Y",
+                    "mealCode": "BM",
+                    "seatsAvailable": 4
+                  },
+                  {
+                    "bookingCode": "Z",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 790,
+        "ref": 12,
+        "flight": [
+          {
+            "id": 35,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 633,
+            "elapsedTime": 115,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "16:10:00+03:00"
+            },
+            "arrival": {
+              "airport": "BEY",
+              "city": "BEY",
+              "country": "LB",
+              "time": "18:05:00+03:00"
+            },
+            "carrier": {
+              "marketing": "ME",
+              "marketingFlightNumber": 264,
+              "operating": "ME",
+              "operatingFlightNumber": 264,
+              "equipment": {
+                "code": "320",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 7,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1131,
+            "elapsedTime": 195,
+            "departure": {
+              "airport": "BEY",
+              "city": "BEY",
+              "country": "LB",
+              "time": "02:05:00+03:00"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "05:20:00+03:00"
+            },
+            "carrier": {
+              "marketing": "ME",
+              "marketingFlightNumber": 4436,
+              "operating": "QR",
+              "operatingFlightNumber": 419,
+              "disclosure": "QR",
+              "equipment": {
+                "code": "333",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            },
+            "departureDateAdjustment": 1
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 2018,
+            "taxAmount": 260.5,
+            "totalPrice": 2278.5,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 1009,
+                "passengerTax": 130.25,
+                "passengerTotalFare": 1139.25,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "I",
+                    "cabinCode": "C",
+                    "mealCode": "S",
+                    "seatsAvailable": 9
+                  },
+                  {
+                    "bookingCode": "U",
+                    "cabinCode": "Y",
+                    "mealCode": "N",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 750,
+        "ref": 13,
+        "flight": [
+          {
+            "id": 57,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 781,
+            "elapsedTime": 145,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "06:25:00+03:00"
+            },
+            "arrival": {
+              "airport": "CAI",
+              "city": "CAI",
+              "country": "EG",
+              "time": "07:50:00+02:00",
+              "terminal": "3"
+            },
+            "carrier": {
+              "marketing": "MS",
+              "marketingFlightNumber": 9292,
+              "operating": "TK",
+              "operatingFlightNumber": 690,
+              "disclosure": "TK",
+              "equipment": {
+                "code": "321",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 36,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1012,
+            "elapsedTime": 165,
+            "departure": {
+              "airport": "CAI",
+              "city": "CAI",
+              "country": "EG",
+              "time": "10:40:00+02:00",
+              "terminal": "2"
+            },
+            "arrival": {
+              "airport": "RUH",
+              "city": "RUH",
+              "country": "SA",
+              "time": "14:25:00+03:00",
+              "terminal": "2"
+            },
+            "carrier": {
+              "marketing": "SV",
+              "marketingFlightNumber": 310,
+              "operating": "SV",
+              "operatingFlightNumber": 310,
+              "equipment": {
+                "code": "333",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          },
+          {
+            "id": 55,
+            "frequency": "S*T*TF*",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 306,
+            "elapsedTime": 90,
+            "departure": {
+              "airport": "RUH",
+              "city": "RUH",
+              "country": "SA",
+              "time": "17:25:00+03:00",
+              "terminal": "2"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "18:55:00+03:00"
+            },
+            "carrier": {
+              "marketing": "SV",
+              "marketingFlightNumber": 540,
+              "operating": "SV",
+              "operatingFlightNumber": 540,
+              "equipment": {
+                "code": "320",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 4480,
+            "taxAmount": 419.22,
+            "totalPrice": 4899.22,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 2240,
+                "passengerTax": 209.61,
+                "passengerTotalFare": 2449.61,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "V",
+                    "cabinCode": "Y",
+                    "mealCode": "N",
+                    "seatsAvailable": 4
+                  },
+                  {
+                    "bookingCode": "Y",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 4
+                  },
+                  {
+                    "bookingCode": "Y",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 1280,
+        "ref": 14,
+        "flight": [
+          {
+            "id": 33,
+            "frequency": "**T*T*S",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 5213,
+            "elapsedTime": 620,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "01:55:00+03:00"
+            },
+            "arrival": {
+              "airport": "KUL",
+              "city": "KUL",
+              "country": "MY",
+              "time": "17:15:00+08:00",
+              "terminal": "M"
+            },
+            "carrier": {
+              "marketing": "MH",
+              "marketingFlightNumber": 4270,
+              "operating": "TK",
+              "operatingFlightNumber": 60,
+              "disclosure": "TK",
+              "equipment": {
+                "code": "77W",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          },
+          {
+            "id": 15,
+            "frequency": "**T****",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 3675,
+            "elapsedTime": 430,
+            "departure": {
+              "airport": "KUL",
+              "city": "KUL",
+              "country": "MY",
+              "time": "21:05:00+08:00",
+              "terminal": "M"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "23:15:00+03:00"
+            },
+            "carrier": {
+              "marketing": "MH",
+              "marketingFlightNumber": 9056,
+              "operating": "QR",
+              "operatingFlightNumber": 849,
+              "disclosure": "QR",
+              "alliances": "OW ",
+              "equipment": {
+                "code": "359",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 1538,
+            "taxAmount": 358.9,
+            "totalPrice": 1896.9,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 769,
+                "passengerTax": 179.45,
+                "passengerTotalFare": 948.45,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "Q",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 4
+                  },
+                  {
+                    "bookingCode": "Q",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 930,
+        "ref": 16,
+        "flight": [
+          {
+            "id": 2,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 633,
+            "elapsedTime": 110,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "00:50:00+03:00"
+            },
+            "arrival": {
+              "airport": "BEY",
+              "city": "BEY",
+              "country": "LB",
+              "time": "02:40:00+03:00"
+            },
+            "carrier": {
+              "marketing": "ME",
+              "marketingFlightNumber": 2828,
+              "operating": "TK",
+              "operatingFlightNumber": 828,
+              "disclosure": "TK",
+              "equipment": {
+                "code": "333",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          },
+          {
+            "id": 25,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1131,
+            "elapsedTime": 195,
+            "departure": {
+              "airport": "BEY",
+              "city": "BEY",
+              "country": "LB",
+              "time": "13:05:00+03:00"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "16:20:00+03:00"
+            },
+            "carrier": {
+              "marketing": "ME",
+              "marketingFlightNumber": 4434,
+              "operating": "QR",
+              "operatingFlightNumber": 417,
+              "disclosure": "QR",
+              "equipment": {
+                "code": "359",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 2018,
+            "taxAmount": 260.5,
+            "totalPrice": 2278.5,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 1009,
+                "passengerTax": 130.25,
+                "passengerTotalFare": 1139.25,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "I",
+                    "cabinCode": "C",
+                    "mealCode": "N",
+                    "seatsAvailable": 4
+                  },
+                  {
+                    "bookingCode": "U",
+                    "cabinCode": "Y",
+                    "mealCode": "N",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 840,
+        "ref": 18,
+        "flight": [
+          {
+            "id": 45,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1876,
+            "elapsedTime": 275,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "19:05:00+03:00"
+            },
+            "arrival": {
+              "airport": "AUH",
+              "city": "AUH",
+              "country": "AE",
+              "time": "00:40:00+04:00",
+              "terminal": "1",
+              "dateAdjustment": 1
+            },
+            "carrier": {
+              "marketing": "EY",
+              "marketingFlightNumber": 4150,
+              "operating": "TK",
+              "operatingFlightNumber": 868,
+              "disclosure": "TK",
+              "equipment": {
+                "code": "321",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 41,
+            "frequency": "*M*W*F*",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 186,
+            "elapsedTime": 65,
+            "departure": {
+              "airport": "AUH",
+              "city": "AUH",
+              "country": "AE",
+              "time": "09:00:00+04:00",
+              "terminal": "3"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "09:05:00+03:00"
+            },
+            "carrier": {
+              "marketing": "EY",
+              "marketingFlightNumber": 393,
+              "operating": "EY",
+              "operatingFlightNumber": 393,
+              "equipment": {
+                "code": "32A",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            },
+            "departureDateAdjustment": 1
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 762,
+            "taxAmount": 240.7,
+            "totalPrice": 1002.7,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 381,
+                "passengerTax": 120.35,
+                "passengerTotalFare": 501.35,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "Q",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 4
+                  },
+                  {
+                    "bookingCode": "Q",
+                    "cabinCode": "Y",
+                    "mealCode": "R",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 785,
+        "ref": 19,
+        "flight": [
+          {
+            "id": 61,
+            "frequency": "*MT***S",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1550,
+            "elapsedTime": 260,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "17:35:00+03:00"
+            },
+            "arrival": {
+              "airport": "LHR",
+              "city": "LON",
+              "country": "GB",
+              "time": "19:55:00+01:00",
+              "terminal": "5"
+            },
+            "carrier": {
+              "marketing": "BA",
+              "marketingFlightNumber": 677,
+              "operating": "BA",
+              "operatingFlightNumber": 677,
+              "alliances": "OW ",
+              "equipment": {
+                "code": "32Q",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 47,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 3259,
+            "elapsedTime": 405,
+            "departure": {
+              "airport": "LHR",
+              "city": "LON",
+              "country": "GB",
+              "time": "21:55:00+01:00",
+              "terminal": "5"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "06:40:00+03:00",
+              "dateAdjustment": 1
+            },
+            "carrier": {
+              "marketing": "BA",
+              "marketingFlightNumber": 7014,
+              "operating": "QR",
+              "operatingFlightNumber": 16,
+              "disclosure": "QR",
+              "alliances": "OW ",
+              "equipment": {
+                "code": "77W",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 1044,
+            "taxAmount": 450.7,
+            "totalPrice": 1494.7,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": true,
+                "passengerBaseFare": 522,
+                "passengerTax": 225.35,
+                "passengerTotalFare": 747.35,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "S",
+                    "cabinCode": "Y",
+                    "mealCode": "G",
+                    "seatsAvailable": 9
+                  },
+                  {
+                    "bookingCode": "V",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 830,
+        "ref": 20,
+        "flight": [
+          {
+            "id": 4,
+            "frequency": "**T****",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 771,
+            "elapsedTime": 135,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "13:35:00+03:00"
+            },
+            "arrival": {
+              "airport": "AMM",
+              "city": "AMM",
+              "country": "JO",
+              "time": "15:50:00+03:00"
+            },
+            "carrier": {
+              "marketing": "RJ",
+              "marketingFlightNumber": 166,
+              "operating": "RJ",
+              "operatingFlightNumber": 166,
+              "alliances": "OW ",
+              "equipment": {
+                "code": "E95",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 11,
+            "frequency": "*M*W*F*",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1045,
+            "elapsedTime": 150,
+            "departure": {
+              "airport": "AMM",
+              "city": "AMM",
+              "country": "JO",
+              "time": "00:55:00+03:00"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "03:25:00+03:00"
+            },
+            "carrier": {
+              "marketing": "RJ",
+              "marketingFlightNumber": 650,
+              "operating": "RJ",
+              "operatingFlightNumber": 650,
+              "alliances": "OW ",
+              "equipment": {
+                "code": "787",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            },
+            "departureDateAdjustment": 1
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 568,
+            "taxAmount": 300.7,
+            "totalPrice": 868.7,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 284,
+                "passengerTax": 150.35,
+                "passengerTotalFare": 434.35,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "M",
+                    "cabinCode": "Y",
+                    "mealCode": "S",
+                    "seatsAvailable": 9
+                  },
+                  {
+                    "bookingCode": "M",
+                    "cabinCode": "Y",
+                    "mealCode": "S",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 950,
+        "ref": 22,
+        "flight": [
+          {
+            "id": 37,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1362,
+            "elapsedTime": 215,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "20:20:00+03:00"
+            },
+            "arrival": {
+              "airport": "KWI",
+              "city": "KWI",
+              "country": "KW",
+              "time": "23:55:00+03:00",
+              "terminal": "1"
+            },
+            "carrier": {
+              "marketing": "KU",
+              "marketingFlightNumber": 6772,
+              "operating": "TK",
+              "operatingFlightNumber": 772,
+              "disclosure": "TK",
+              "equipment": {
+                "code": "332",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          },
+          {
+            "id": 44,
+            "frequency": "S**W**S",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 352,
+            "elapsedTime": 95,
+            "departure": {
+              "airport": "KWI",
+              "city": "KWI",
+              "country": "KW",
+              "time": "10:35:00+03:00",
+              "terminal": "4"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "12:10:00+03:00"
+            },
+            "carrier": {
+              "marketing": "KU",
+              "marketingFlightNumber": 617,
+              "operating": "KU",
+              "operatingFlightNumber": 617,
+              "equipment": {
+                "code": "320",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            },
+            "departureDateAdjustment": 1
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 1120,
+            "taxAmount": 93.7,
+            "totalPrice": 1213.7,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 560,
+                "passengerTax": 46.85,
+                "passengerTotalFare": 606.85,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "T",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 4
+                  },
+                  {
+                    "bookingCode": "T",
+                    "cabinCode": "Y",
+                    "mealCode": "BM",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 1030,
+        "ref": 23,
+        "flight": [
+          {
+            "id": 2,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 633,
+            "elapsedTime": 110,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "00:50:00+03:00"
+            },
+            "arrival": {
+              "airport": "BEY",
+              "city": "BEY",
+              "country": "LB",
+              "time": "02:40:00+03:00"
+            },
+            "carrier": {
+              "marketing": "ME",
+              "marketingFlightNumber": 2828,
+              "operating": "TK",
+              "operatingFlightNumber": 828,
+              "disclosure": "TK",
+              "equipment": {
+                "code": "333",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          },
+          {
+            "id": 32,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1131,
+            "elapsedTime": 165,
+            "departure": {
+              "airport": "BEY",
+              "city": "BEY",
+              "country": "LB",
+              "time": "15:15:00+03:00"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "18:00:00+03:00"
+            },
+            "carrier": {
+              "marketing": "ME",
+              "marketingFlightNumber": 436,
+              "operating": "ME",
+              "operatingFlightNumber": 436,
+              "equipment": {
+                "code": "320",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 1852,
+            "taxAmount": 360.5,
+            "totalPrice": 2212.5,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 926,
+                "passengerTax": 180.25,
+                "passengerTotalFare": 1106.25,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "B",
+                    "cabinCode": "Y",
+                    "mealCode": "N",
+                    "seatsAvailable": 6
+                  },
+                  {
+                    "bookingCode": "Z",
+                    "cabinCode": "C",
+                    "mealCode": "H",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 710,
+        "ref": 24,
+        "flight": [
+          {
+            "id": 39,
+            "frequency": "*MT*T*S",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 2095,
+            "elapsedTime": 295,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "00:55:00+03:00"
+            },
+            "arrival": {
+              "airport": "MCT",
+              "city": "MCT",
+              "country": "OM",
+              "time": "06:50:00+04:00"
+            },
+            "carrier": {
+              "marketing": "WY",
+              "marketingFlightNumber": 166,
+              "operating": "WY",
+              "operatingFlightNumber": 166,
+              "equipment": {
+                "code": "738",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 8,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 438,
+            "elapsedTime": 105,
+            "departure": {
+              "airport": "MCT",
+              "city": "MCT",
+              "country": "OM",
+              "time": "12:00:00+04:00"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "12:45:00+03:00"
+            },
+            "carrier": {
+              "marketing": "WY",
+              "marketingFlightNumber": 5029,
+              "operating": "QR",
+              "operatingFlightNumber": 1129,
+              "disclosure": "QR",
+              "equipment": {
+                "code": "333",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 300,
+            "taxAmount": 370.1,
+            "totalPrice": 670.1,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 150,
+                "passengerTax": 185.05,
+                "passengerTotalFare": 335.05,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "L",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  },
+                  {
+                    "bookingCode": "L",
+                    "cabinCode": "Y",
+                    "mealCode": "N",
+                    "seatsAvailable": 4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 635,
+        "ref": 27,
+        "flight": [
+          {
+            "id": 56,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 633,
+            "elapsedTime": 120,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "18:45:00+03:00"
+            },
+            "arrival": {
+              "airport": "BEY",
+              "city": "BEY",
+              "country": "LB",
+              "time": "20:45:00+03:00"
+            },
+            "carrier": {
+              "marketing": "ME",
+              "marketingFlightNumber": 2826,
+              "operating": "TK",
+              "operatingFlightNumber": 826,
+              "disclosure": "TK",
+              "equipment": {
+                "code": "333",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          },
+          {
+            "id": 7,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1131,
+            "elapsedTime": 195,
+            "departure": {
+              "airport": "BEY",
+              "city": "BEY",
+              "country": "LB",
+              "time": "02:05:00+03:00"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "05:20:00+03:00"
+            },
+            "carrier": {
+              "marketing": "ME",
+              "marketingFlightNumber": 4436,
+              "operating": "QR",
+              "operatingFlightNumber": 419,
+              "disclosure": "QR",
+              "equipment": {
+                "code": "333",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            },
+            "departureDateAdjustment": 1
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 2266,
+            "taxAmount": 260.5,
+            "totalPrice": 2526.5,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 1133,
+                "passengerTax": 130.25,
+                "passengerTotalFare": 1263.25,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "C",
+                    "cabinCode": "C",
+                    "mealCode": "N",
+                    "seatsAvailable": 4
+                  },
+                  {
+                    "bookingCode": "U",
+                    "cabinCode": "Y",
+                    "mealCode": "N",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 710,
+        "ref": 28,
+        "flight": [
+          {
+            "id": 1,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 781,
+            "elapsedTime": 135,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "04:30:00+03:00"
+            },
+            "arrival": {
+              "airport": "CAI",
+              "city": "CAI",
+              "country": "EG",
+              "time": "05:45:00+02:00",
+              "terminal": "3"
+            },
+            "carrier": {
+              "marketing": "MS",
+              "marketingFlightNumber": 746,
+              "operating": "MS",
+              "operatingFlightNumber": 746,
+              "equipment": {
+                "code": "223",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 29,
+            "frequency": "S*T**FS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 349,
+            "elapsedTime": 75,
+            "departure": {
+              "airport": "CAI",
+              "city": "CAI",
+              "country": "EG",
+              "time": "08:50:00+02:00",
+              "terminal": "3"
+            },
+            "arrival": {
+              "airport": "BEY",
+              "city": "BEY",
+              "country": "LB",
+              "time": "11:05:00+03:00"
+            },
+            "carrier": {
+              "marketing": "MS",
+              "marketingFlightNumber": 709,
+              "operating": "MS",
+              "operatingFlightNumber": 709,
+              "equipment": {
+                "code": "32N",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 25,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1131,
+            "elapsedTime": 195,
+            "departure": {
+              "airport": "BEY",
+              "city": "BEY",
+              "country": "LB",
+              "time": "13:05:00+03:00"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "16:20:00+03:00"
+            },
+            "carrier": {
+              "marketing": "ME",
+              "marketingFlightNumber": 4434,
+              "operating": "QR",
+              "operatingFlightNumber": 417,
+              "disclosure": "QR",
+              "equipment": {
+                "code": "359",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 1958,
+            "taxAmount": 558.5,
+            "totalPrice": 2516.5,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": true,
+                "passengerBaseFare": 979,
+                "passengerTax": 279.25,
+                "passengerTotalFare": 1258.25,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "B",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  },
+                  {
+                    "bookingCode": "B",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  },
+                  {
+                    "bookingCode": "Q",
+                    "cabinCode": "Y",
+                    "mealCode": "N",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 745,
+        "ref": 29,
+        "flight": [
+          {
+            "id": 61,
+            "frequency": "*MT***S",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1550,
+            "elapsedTime": 260,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "17:35:00+03:00"
+            },
+            "arrival": {
+              "airport": "LHR",
+              "city": "LON",
+              "country": "GB",
+              "time": "19:55:00+01:00",
+              "terminal": "5"
+            },
+            "carrier": {
+              "marketing": "BA",
+              "marketingFlightNumber": 677,
+              "operating": "BA",
+              "operatingFlightNumber": 677,
+              "alliances": "OW ",
+              "equipment": {
+                "code": "32Q",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 34,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 3259,
+            "elapsedTime": 410,
+            "departure": {
+              "airport": "LHR",
+              "city": "LON",
+              "country": "GB",
+              "time": "21:10:00+01:00",
+              "terminal": "5"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "06:00:00+03:00",
+              "dateAdjustment": 1
+            },
+            "carrier": {
+              "marketing": "BA",
+              "marketingFlightNumber": 7002,
+              "operating": "QR",
+              "operatingFlightNumber": 2,
+              "disclosure": "QR",
+              "alliances": "OW ",
+              "equipment": {
+                "code": "77W",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 1044,
+            "taxAmount": 450.7,
+            "totalPrice": 1494.7,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": true,
+                "passengerBaseFare": 522,
+                "passengerTax": 225.35,
+                "passengerTotalFare": 747.35,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "S",
+                    "cabinCode": "Y",
+                    "mealCode": "G",
+                    "seatsAvailable": 9
+                  },
+                  {
+                    "bookingCode": "V",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 760,
+        "ref": 30,
+        "flight": [
+          {
+            "id": 14,
+            "frequency": "S*T**F*",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 492,
+            "elapsedTime": 100,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "15:40:00+03:00"
+            },
+            "arrival": {
+              "airport": "BEG",
+              "city": "BEG",
+              "country": "RS",
+              "time": "16:20:00+02:00",
+              "terminal": "2"
+            },
+            "carrier": {
+              "marketing": "JU",
+              "marketingFlightNumber": 803,
+              "operating": "JU",
+              "operatingFlightNumber": 803,
+              "equipment": {
+                "code": "319",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 50,
+            "frequency": "**T*T*S",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 2204,
+            "elapsedTime": 295,
+            "departure": {
+              "airport": "BEG",
+              "city": "BEG",
+              "country": "RS",
+              "time": "22:25:00+02:00",
+              "terminal": "1"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "04:20:00+03:00",
+              "dateAdjustment": 1
+            },
+            "carrier": {
+              "marketing": "QR",
+              "marketingFlightNumber": 372,
+              "operating": "QR",
+              "operatingFlightNumber": 372,
+              "alliances": "OW ",
+              "equipment": {
+                "code": "320",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 640,
+            "taxAmount": 265.86,
+            "totalPrice": 905.86,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 320,
+                "passengerTax": 132.93,
+                "passengerTotalFare": 452.93,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "E",
+                    "cabinCode": "Y",
+                    "mealCode": "G",
+                    "seatsAvailable": 7
+                  },
+                  {
+                    "bookingCode": "N",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 695,
+        "ref": 32,
+        "flight": [
+          {
+            "id": 59,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 633,
+            "elapsedTime": 115,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "06:25:00+03:00"
+            },
+            "arrival": {
+              "airport": "BEY",
+              "city": "BEY",
+              "country": "LB",
+              "time": "08:20:00+03:00"
+            },
+            "carrier": {
+              "marketing": "ME",
+              "marketingFlightNumber": 2830,
+              "operating": "TK",
+              "operatingFlightNumber": 830,
+              "disclosure": "TK",
+              "equipment": {
+                "code": "333",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          },
+          {
+            "id": 32,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1131,
+            "elapsedTime": 165,
+            "departure": {
+              "airport": "BEY",
+              "city": "BEY",
+              "country": "LB",
+              "time": "15:15:00+03:00"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "18:00:00+03:00"
+            },
+            "carrier": {
+              "marketing": "ME",
+              "marketingFlightNumber": 436,
+              "operating": "ME",
+              "operatingFlightNumber": 436,
+              "equipment": {
+                "code": "320",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 1852,
+            "taxAmount": 260.5,
+            "totalPrice": 2112.5,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 926,
+                "passengerTax": 130.25,
+                "passengerTotalFare": 1056.25,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "B",
+                    "cabinCode": "Y",
+                    "mealCode": "N",
+                    "seatsAvailable": 6
+                  },
+                  {
+                    "bookingCode": "Z",
+                    "cabinCode": "C",
+                    "mealCode": "H",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 880,
+        "ref": 34,
+        "flight": [
+          {
+            "id": 40,
+            "frequency": "**T****",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 633,
+            "elapsedTime": 115,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "20:30:00+03:00"
+            },
+            "arrival": {
+              "airport": "BEY",
+              "city": "BEY",
+              "country": "LB",
+              "time": "22:25:00+03:00"
+            },
+            "carrier": {
+              "marketing": "ME",
+              "marketingFlightNumber": 268,
+              "operating": "ME",
+              "operatingFlightNumber": 268,
+              "equipment": {
+                "code": "332",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          },
+          {
+            "id": 27,
+            "frequency": "SM*W*F*",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1131,
+            "elapsedTime": 175,
+            "departure": {
+              "airport": "BEY",
+              "city": "BEY",
+              "country": "LB",
+              "time": "08:15:00+03:00"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "11:10:00+03:00"
+            },
+            "carrier": {
+              "marketing": "ME",
+              "marketingFlightNumber": 4432,
+              "operating": "QR",
+              "operatingFlightNumber": 427,
+              "disclosure": "QR",
+              "equipment": {
+                "code": "320",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            },
+            "departureDateAdjustment": 1
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 2018,
+            "taxAmount": 260.5,
+            "totalPrice": 2278.5,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 1009,
+                "passengerTax": 130.25,
+                "passengerTotalFare": 1139.25,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "I",
+                    "cabinCode": "C",
+                    "mealCode": "S",
+                    "seatsAvailable": 9
+                  },
+                  {
+                    "bookingCode": "U",
+                    "cabinCode": "Y",
+                    "mealCode": "N",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 595,
+        "ref": 35,
+        "flight": [
+          {
+            "id": 59,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 633,
+            "elapsedTime": 115,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "06:25:00+03:00"
+            },
+            "arrival": {
+              "airport": "BEY",
+              "city": "BEY",
+              "country": "LB",
+              "time": "08:20:00+03:00"
+            },
+            "carrier": {
+              "marketing": "ME",
+              "marketingFlightNumber": 2830,
+              "operating": "TK",
+              "operatingFlightNumber": 830,
+              "disclosure": "TK",
+              "equipment": {
+                "code": "333",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          },
+          {
+            "id": 25,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1131,
+            "elapsedTime": 195,
+            "departure": {
+              "airport": "BEY",
+              "city": "BEY",
+              "country": "LB",
+              "time": "13:05:00+03:00"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "16:20:00+03:00"
+            },
+            "carrier": {
+              "marketing": "ME",
+              "marketingFlightNumber": 4434,
+              "operating": "QR",
+              "operatingFlightNumber": 417,
+              "disclosure": "QR",
+              "equipment": {
+                "code": "359",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 2018,
+            "taxAmount": 260.5,
+            "totalPrice": 2278.5,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 1009,
+                "passengerTax": 130.25,
+                "passengerTotalFare": 1139.25,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "I",
+                    "cabinCode": "C",
+                    "mealCode": "N",
+                    "seatsAvailable": 4
+                  },
+                  {
+                    "bookingCode": "U",
+                    "cabinCode": "Y",
+                    "mealCode": "N",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 545,
+        "ref": 36,
+        "flight": [
+          {
+            "id": 49,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 344,
+            "elapsedTime": 90,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "15:50:00+03:00"
+            },
+            "arrival": {
+              "airport": "ATH",
+              "city": "ATH",
+              "country": "GR",
+              "time": "17:20:00+03:00"
+            },
+            "carrier": {
+              "marketing": "A3",
+              "marketingFlightNumber": 993,
+              "operating": "A3",
+              "operatingFlightNumber": 993,
+              "equipment": {
+                "code": "320",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 10,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1838,
+            "elapsedTime": 250,
+            "departure": {
+              "airport": "ATH",
+              "city": "ATH",
+              "country": "GR",
+              "time": "20:45:00+03:00"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "00:55:00+03:00",
+              "dateAdjustment": 1
+            },
+            "carrier": {
+              "marketing": "QR",
+              "marketingFlightNumber": 208,
+              "operating": "QR",
+              "operatingFlightNumber": 208,
+              "alliances": "OW ",
+              "equipment": {
+                "code": "332",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 640,
+            "taxAmount": 292.86,
+            "totalPrice": 932.86,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 320,
+                "passengerTax": 146.43,
+                "passengerTotalFare": 466.43,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "U",
+                    "cabinCode": "Y",
+                    "mealCode": "S",
+                    "seatsAvailable": 7
+                  },
+                  {
+                    "bookingCode": "N",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 960,
+        "ref": 37,
+        "flight": [
+          {
+            "id": 31,
+            "frequency": "**T****",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1550,
+            "elapsedTime": 255,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "08:40:00+03:00"
+            },
+            "arrival": {
+              "airport": "LHR",
+              "city": "LON",
+              "country": "GB",
+              "time": "10:55:00+01:00",
+              "terminal": "5"
+            },
+            "carrier": {
+              "marketing": "BA",
+              "marketingFlightNumber": 675,
+              "operating": "BA",
+              "operatingFlightNumber": 675,
+              "alliances": "OW ",
+              "equipment": {
+                "code": "320",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 54,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 3259,
+            "elapsedTime": 405,
+            "departure": {
+              "airport": "LHR",
+              "city": "LON",
+              "country": "GB",
+              "time": "15:55:00+01:00",
+              "terminal": "5"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "00:40:00+03:00",
+              "dateAdjustment": 1
+            },
+            "carrier": {
+              "marketing": "BA",
+              "marketingFlightNumber": 7008,
+              "operating": "QR",
+              "operatingFlightNumber": 8,
+              "disclosure": "QR",
+              "alliances": "OW ",
+              "equipment": {
+                "code": "77W",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 1044,
+            "taxAmount": 450.7,
+            "totalPrice": 1494.7,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": true,
+                "passengerBaseFare": 522,
+                "passengerTax": 225.35,
+                "passengerTotalFare": 747.35,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "S",
+                    "cabinCode": "Y",
+                    "mealCode": "G",
+                    "seatsAvailable": 9
+                  },
+                  {
+                    "bookingCode": "V",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 1395,
+        "ref": 38,
+        "flight": [
+          {
+            "id": 61,
+            "frequency": "*MT***S",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1550,
+            "elapsedTime": 260,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "17:35:00+03:00"
+            },
+            "arrival": {
+              "airport": "LHR",
+              "city": "LON",
+              "country": "GB",
+              "time": "19:55:00+01:00",
+              "terminal": "5"
+            },
+            "carrier": {
+              "marketing": "BA",
+              "marketingFlightNumber": 677,
+              "operating": "BA",
+              "operatingFlightNumber": 677,
+              "alliances": "OW ",
+              "equipment": {
+                "code": "32Q",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 3,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 3259,
+            "elapsedTime": 410,
+            "departure": {
+              "airport": "LHR",
+              "city": "LON",
+              "country": "GB",
+              "time": "08:00:00+01:00",
+              "terminal": "5"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "16:50:00+03:00"
+            },
+            "carrier": {
+              "marketing": "BA",
+              "marketingFlightNumber": 7006,
+              "operating": "QR",
+              "operatingFlightNumber": 6,
+              "disclosure": "QR",
+              "alliances": "OW ",
+              "equipment": {
+                "code": "77W",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            },
+            "departureDateAdjustment": 1
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 1044,
+            "taxAmount": 450.7,
+            "totalPrice": 1494.7,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": true,
+                "passengerBaseFare": 522,
+                "passengerTax": 225.35,
+                "passengerTotalFare": 747.35,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "S",
+                    "cabinCode": "Y",
+                    "mealCode": "G",
+                    "seatsAvailable": 9
+                  },
+                  {
+                    "bookingCode": "V",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 1320,
+        "ref": 39,
+        "flight": [
+          {
+            "id": 31,
+            "frequency": "**T****",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1550,
+            "elapsedTime": 255,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "08:40:00+03:00"
+            },
+            "arrival": {
+              "airport": "LHR",
+              "city": "LON",
+              "country": "GB",
+              "time": "10:55:00+01:00",
+              "terminal": "5"
+            },
+            "carrier": {
+              "marketing": "BA",
+              "marketingFlightNumber": 675,
+              "operating": "BA",
+              "operatingFlightNumber": 675,
+              "alliances": "OW ",
+              "equipment": {
+                "code": "320",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 47,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 3259,
+            "elapsedTime": 405,
+            "departure": {
+              "airport": "LHR",
+              "city": "LON",
+              "country": "GB",
+              "time": "21:55:00+01:00",
+              "terminal": "5"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "06:40:00+03:00",
+              "dateAdjustment": 1
+            },
+            "carrier": {
+              "marketing": "BA",
+              "marketingFlightNumber": 7014,
+              "operating": "QR",
+              "operatingFlightNumber": 16,
+              "disclosure": "QR",
+              "alliances": "OW ",
+              "equipment": {
+                "code": "77W",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 1044,
+            "taxAmount": 450.7,
+            "totalPrice": 1494.7,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": true,
+                "passengerBaseFare": 522,
+                "passengerTax": 225.35,
+                "passengerTotalFare": 747.35,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "S",
+                    "cabinCode": "Y",
+                    "mealCode": "G",
+                    "seatsAvailable": 9
+                  },
+                  {
+                    "bookingCode": "V",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 900,
+        "ref": 40,
+        "flight": [
+          {
+            "id": 31,
+            "frequency": "**T****",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1550,
+            "elapsedTime": 255,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "08:40:00+03:00"
+            },
+            "arrival": {
+              "airport": "LHR",
+              "city": "LON",
+              "country": "GB",
+              "time": "10:55:00+01:00",
+              "terminal": "5"
+            },
+            "carrier": {
+              "marketing": "BA",
+              "marketingFlightNumber": 675,
+              "operating": "BA",
+              "operatingFlightNumber": 675,
+              "alliances": "OW ",
+              "equipment": {
+                "code": "320",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 51,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 3259,
+            "elapsedTime": 405,
+            "departure": {
+              "airport": "LHR",
+              "city": "LON",
+              "country": "GB",
+              "time": "14:55:00+01:00",
+              "terminal": "5"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "23:40:00+03:00"
+            },
+            "carrier": {
+              "marketing": "BA",
+              "marketingFlightNumber": 7004,
+              "operating": "QR",
+              "operatingFlightNumber": 4,
+              "disclosure": "QR",
+              "alliances": "OW ",
+              "equipment": {
+                "code": "77W",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 1044,
+            "taxAmount": 450.7,
+            "totalPrice": 1494.7,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": true,
+                "passengerBaseFare": 522,
+                "passengerTax": 225.35,
+                "passengerTotalFare": 747.35,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "S",
+                    "cabinCode": "Y",
+                    "mealCode": "G",
+                    "seatsAvailable": 9
+                  },
+                  {
+                    "bookingCode": "V",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 1090,
+        "ref": 41,
+        "flight": [
+          {
+            "id": 12,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1876,
+            "elapsedTime": 270,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "14:55:00+03:00"
+            },
+            "arrival": {
+              "airport": "AUH",
+              "city": "AUH",
+              "country": "AE",
+              "time": "20:25:00+04:00",
+              "terminal": "3"
+            },
+            "carrier": {
+              "marketing": "EY",
+              "marketingFlightNumber": 96,
+              "operating": "EY",
+              "operatingFlightNumber": 96,
+              "equipment": {
+                "code": "789",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          },
+          {
+            "id": 41,
+            "frequency": "*M*W*F*",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 186,
+            "elapsedTime": 65,
+            "departure": {
+              "airport": "AUH",
+              "city": "AUH",
+              "country": "AE",
+              "time": "09:00:00+04:00",
+              "terminal": "3"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "09:05:00+03:00"
+            },
+            "carrier": {
+              "marketing": "EY",
+              "marketingFlightNumber": 393,
+              "operating": "EY",
+              "operatingFlightNumber": 393,
+              "equipment": {
+                "code": "32A",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            },
+            "departureDateAdjustment": 1
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 2658,
+            "taxAmount": 560.7,
+            "totalPrice": 3218.7,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 1329,
+                "passengerTax": 280.35,
+                "passengerTotalFare": 1609.35,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "D",
+                    "cabinCode": "C",
+                    "mealCode": "M",
+                    "seatsAvailable": 8
+                  },
+                  {
+                    "bookingCode": "D",
+                    "cabinCode": "C",
+                    "mealCode": "R",
+                    "seatsAvailable": 8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 825,
+        "ref": 43,
+        "flight": [
+          {
+            "id": 49,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 344,
+            "elapsedTime": 90,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "15:50:00+03:00"
+            },
+            "arrival": {
+              "airport": "ATH",
+              "city": "ATH",
+              "country": "GR",
+              "time": "17:20:00+03:00"
+            },
+            "carrier": {
+              "marketing": "A3",
+              "marketingFlightNumber": 993,
+              "operating": "A3",
+              "operatingFlightNumber": 993,
+              "equipment": {
+                "code": "320",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 18,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1838,
+            "elapsedTime": 250,
+            "departure": {
+              "airport": "ATH",
+              "city": "ATH",
+              "country": "GR",
+              "time": "01:25:00+03:00"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "05:35:00+03:00"
+            },
+            "carrier": {
+              "marketing": "QR",
+              "marketingFlightNumber": 212,
+              "operating": "QR",
+              "operatingFlightNumber": 212,
+              "alliances": "OW ",
+              "equipment": {
+                "code": "320",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            },
+            "departureDateAdjustment": 1
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 640,
+            "taxAmount": 292.86,
+            "totalPrice": 932.86,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 320,
+                "passengerTax": 146.43,
+                "passengerTotalFare": 466.43,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "U",
+                    "cabinCode": "Y",
+                    "mealCode": "S",
+                    "seatsAvailable": 7
+                  },
+                  {
+                    "bookingCode": "N",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 1035,
+        "ref": 44,
+        "flight": [
+          {
+            "id": 9,
+            "frequency": "**T****",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 2306,
+            "elapsedTime": 330,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "08:55:00+03:00"
+            },
+            "arrival": {
+              "airport": "ADD",
+              "city": "ADD",
+              "country": "ET",
+              "time": "14:25:00+03:00",
+              "terminal": "2"
+            },
+            "carrier": {
+              "marketing": "ET",
+              "marketingFlightNumber": 723,
+              "operating": "ET",
+              "operatingFlightNumber": 723,
+              "equipment": {
+                "code": "738",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 53,
+            "frequency": "**T****",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1400,
+            "elapsedTime": 255,
+            "departure": {
+              "airport": "ADD",
+              "city": "ADD",
+              "country": "ET",
+              "time": "21:55:00+03:00",
+              "terminal": "1"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "02:10:00+03:00",
+              "dateAdjustment": 1
+            },
+            "carrier": {
+              "marketing": "ET",
+              "marketingFlightNumber": 432,
+              "operating": "ET",
+              "operatingFlightNumber": 432,
+              "equipment": {
+                "code": "789",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 898,
+            "taxAmount": 492.1,
+            "totalPrice": 1390.1,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 449,
+                "passengerTax": 246.05,
+                "passengerTotalFare": 695.05,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "H",
+                    "cabinCode": "Y",
+                    "mealCode": "S",
+                    "seatsAvailable": 9
+                  },
+                  {
+                    "bookingCode": "H",
+                    "cabinCode": "Y",
+                    "mealCode": "D",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 530,
+        "ref": 45,
+        "flight": [
+          {
+            "id": 40,
+            "frequency": "**T****",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 633,
+            "elapsedTime": 115,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "20:30:00+03:00"
+            },
+            "arrival": {
+              "airport": "BEY",
+              "city": "BEY",
+              "country": "LB",
+              "time": "22:25:00+03:00"
+            },
+            "carrier": {
+              "marketing": "ME",
+              "marketingFlightNumber": 268,
+              "operating": "ME",
+              "operatingFlightNumber": 268,
+              "equipment": {
+                "code": "332",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          },
+          {
+            "id": 7,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1131,
+            "elapsedTime": 195,
+            "departure": {
+              "airport": "BEY",
+              "city": "BEY",
+              "country": "LB",
+              "time": "02:05:00+03:00"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "05:20:00+03:00"
+            },
+            "carrier": {
+              "marketing": "ME",
+              "marketingFlightNumber": 4436,
+              "operating": "QR",
+              "operatingFlightNumber": 419,
+              "disclosure": "QR",
+              "equipment": {
+                "code": "333",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            },
+            "departureDateAdjustment": 1
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 2018,
+            "taxAmount": 260.5,
+            "totalPrice": 2278.5,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 1009,
+                "passengerTax": 130.25,
+                "passengerTotalFare": 1139.25,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "I",
+                    "cabinCode": "C",
+                    "mealCode": "S",
+                    "seatsAvailable": 9
+                  },
+                  {
+                    "bookingCode": "U",
+                    "cabinCode": "Y",
+                    "mealCode": "N",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 990,
+        "ref": 46,
+        "flight": [
+          {
+            "id": 21,
+            "frequency": "S*T**FS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1882,
+            "elapsedTime": 260,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "16:30:00+03:00"
+            },
+            "arrival": {
+              "airport": "DXB",
+              "city": "DXB",
+              "country": "AE",
+              "time": "21:50:00+04:00",
+              "terminal": "3"
+            },
+            "carrier": {
+              "marketing": "EK",
+              "marketingFlightNumber": 124,
+              "operating": "EK",
+              "operatingFlightNumber": 124,
+              "equipment": {
+                "code": "77W",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          },
+          {
+            "id": 63,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 237,
+            "elapsedTime": 75,
+            "departure": {
+              "airport": "DXB",
+              "city": "DXB",
+              "country": "AE",
+              "time": "08:45:00+04:00",
+              "terminal": "2"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "09:00:00+03:00"
+            },
+            "carrier": {
+              "marketing": "FZ",
+              "marketingFlightNumber": 1,
+              "operating": "FZ",
+              "operatingFlightNumber": 1,
+              "equipment": {
+                "code": "73H",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            },
+            "departureDateAdjustment": 1
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 1026,
+            "taxAmount": 176.1,
+            "totalPrice": 1202.1,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 513,
+                "passengerTax": 88.05,
+                "passengerTotalFare": 601.05,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "K",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 7
+                  },
+                  {
+                    "bookingCode": "R",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 990,
+        "ref": 47,
+        "flight": [
+          {
+            "id": 43,
+            "frequency": "*MT**F*",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 771,
+            "elapsedTime": 130,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "20:15:00+03:00"
+            },
+            "arrival": {
+              "airport": "AMM",
+              "city": "AMM",
+              "country": "JO",
+              "time": "22:25:00+03:00"
+            },
+            "carrier": {
+              "marketing": "RJ",
+              "marketingFlightNumber": 168,
+              "operating": "RJ",
+              "operatingFlightNumber": 168,
+              "alliances": "OW ",
+              "equipment": {
+                "code": "787",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          },
+          {
+            "id": 6,
+            "frequency": "**TW***",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1045,
+            "elapsedTime": 150,
+            "departure": {
+              "airport": "AMM",
+              "city": "AMM",
+              "country": "JO",
+              "time": "10:15:00+03:00"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "12:45:00+03:00"
+            },
+            "carrier": {
+              "marketing": "RJ",
+              "marketingFlightNumber": 652,
+              "operating": "RJ",
+              "operatingFlightNumber": 652,
+              "alliances": "OW ",
+              "equipment": {
+                "code": "321",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            },
+            "departureDateAdjustment": 1
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 568,
+            "taxAmount": 300.7,
+            "totalPrice": 868.7,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 284,
+                "passengerTax": 150.35,
+                "passengerTotalFare": 434.35,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "M",
+                    "cabinCode": "Y",
+                    "mealCode": "S",
+                    "seatsAvailable": 9
+                  },
+                  {
+                    "bookingCode": "M",
+                    "cabinCode": "Y",
+                    "mealCode": "S",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 860,
+        "ref": 48,
+        "flight": [
+          {
+            "id": 20,
+            "frequency": "*MT****",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1362,
+            "elapsedTime": 225,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "15:35:00+03:00"
+            },
+            "arrival": {
+              "airport": "KWI",
+              "city": "KWI",
+              "country": "KW",
+              "time": "19:20:00+03:00",
+              "terminal": "4"
+            },
+            "carrier": {
+              "marketing": "KU",
+              "marketingFlightNumber": 156,
+              "operating": "KU",
+              "operatingFlightNumber": 156,
+              "equipment": {
+                "code": "332",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          },
+          {
+            "id": 64,
+            "frequency": "*MTWTF*",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 352,
+            "elapsedTime": 95,
+            "departure": {
+              "airport": "KWI",
+              "city": "KWI",
+              "country": "KW",
+              "time": "04:20:00+03:00",
+              "terminal": "4"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "05:55:00+03:00"
+            },
+            "carrier": {
+              "marketing": "KU",
+              "marketingFlightNumber": 621,
+              "operating": "KU",
+              "operatingFlightNumber": 621,
+              "equipment": {
+                "code": "320",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            },
+            "departureDateAdjustment": 1
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 900,
+            "taxAmount": 93.7,
+            "totalPrice": 993.7,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 450,
+                "passengerTax": 46.85,
+                "passengerTotalFare": 496.85,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "T",
+                    "cabinCode": "Y",
+                    "mealCode": "BM",
+                    "seatsAvailable": 9
+                  },
+                  {
+                    "bookingCode": "T",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 985,
+        "ref": 49,
+        "flight": [
+          {
+            "id": 56,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 633,
+            "elapsedTime": 120,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "18:45:00+03:00"
+            },
+            "arrival": {
+              "airport": "BEY",
+              "city": "BEY",
+              "country": "LB",
+              "time": "20:45:00+03:00"
+            },
+            "carrier": {
+              "marketing": "ME",
+              "marketingFlightNumber": 2826,
+              "operating": "TK",
+              "operatingFlightNumber": 826,
+              "disclosure": "TK",
+              "equipment": {
+                "code": "333",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          },
+          {
+            "id": 27,
+            "frequency": "SM*W*F*",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1131,
+            "elapsedTime": 175,
+            "departure": {
+              "airport": "BEY",
+              "city": "BEY",
+              "country": "LB",
+              "time": "08:15:00+03:00"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "11:10:00+03:00"
+            },
+            "carrier": {
+              "marketing": "ME",
+              "marketingFlightNumber": 4432,
+              "operating": "QR",
+              "operatingFlightNumber": 427,
+              "disclosure": "QR",
+              "equipment": {
+                "code": "320",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            },
+            "departureDateAdjustment": 1
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 2266,
+            "taxAmount": 260.5,
+            "totalPrice": 2526.5,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 1133,
+                "passengerTax": 130.25,
+                "passengerTotalFare": 1263.25,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "C",
+                    "cabinCode": "C",
+                    "mealCode": "N",
+                    "seatsAvailable": 4
+                  },
+                  {
+                    "bookingCode": "U",
+                    "cabinCode": "Y",
+                    "mealCode": "N",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 430,
+        "ref": 51,
+        "flight": [
+          {
+            "id": 43,
+            "frequency": "*MT**F*",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 771,
+            "elapsedTime": 130,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "20:15:00+03:00"
+            },
+            "arrival": {
+              "airport": "AMM",
+              "city": "AMM",
+              "country": "JO",
+              "time": "22:25:00+03:00"
+            },
+            "carrier": {
+              "marketing": "RJ",
+              "marketingFlightNumber": 168,
+              "operating": "RJ",
+              "operatingFlightNumber": 168,
+              "alliances": "OW ",
+              "equipment": {
+                "code": "787",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            }
+          },
+          {
+            "id": 11,
+            "frequency": "*M*W*F*",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1045,
+            "elapsedTime": 150,
+            "departure": {
+              "airport": "AMM",
+              "city": "AMM",
+              "country": "JO",
+              "time": "00:55:00+03:00"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "03:25:00+03:00"
+            },
+            "carrier": {
+              "marketing": "RJ",
+              "marketingFlightNumber": 650,
+              "operating": "RJ",
+              "operatingFlightNumber": 650,
+              "alliances": "OW ",
+              "equipment": {
+                "code": "787",
+                "typeForFirstLeg": "W",
+                "typeForLastLeg": "W"
+              }
+            },
+            "departureDateAdjustment": 1
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 568,
+            "taxAmount": 300.7,
+            "totalPrice": 868.7,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 284,
+                "passengerTax": 150.35,
+                "passengerTotalFare": 434.35,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "M",
+                    "cabinCode": "Y",
+                    "mealCode": "S",
+                    "seatsAvailable": 9
+                  },
+                  {
+                    "bookingCode": "M",
+                    "cabinCode": "Y",
+                    "mealCode": "S",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 750,
+        "ref": 52,
+        "flight": [
+          {
+            "id": 57,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 781,
+            "elapsedTime": 145,
+            "departure": {
+              "airport": "IST",
+              "city": "IST",
+              "country": "TR",
+              "time": "06:25:00+03:00"
+            },
+            "arrival": {
+              "airport": "CAI",
+              "city": "CAI",
+              "country": "EG",
+              "time": "07:50:00+02:00",
+              "terminal": "3"
+            },
+            "carrier": {
+              "marketing": "MS",
+              "marketingFlightNumber": 9292,
+              "operating": "TK",
+              "operatingFlightNumber": 690,
+              "disclosure": "TK",
+              "equipment": {
+                "code": "321",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 23,
+            "frequency": "SMTWTFS",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 1012,
+            "elapsedTime": 150,
+            "departure": {
+              "airport": "CAI",
+              "city": "CAI",
+              "country": "EG",
+              "time": "11:30:00+02:00",
+              "terminal": "2"
+            },
+            "arrival": {
+              "airport": "RUH",
+              "city": "RUH",
+              "country": "SA",
+              "time": "15:00:00+03:00",
+              "terminal": "1"
+            },
+            "carrier": {
+              "marketing": "MS",
+              "marketingFlightNumber": 689,
+              "operating": "MS",
+              "operatingFlightNumber": 689,
+              "equipment": {
+                "code": "738",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          },
+          {
+            "id": 55,
+            "frequency": "S*T*TF*",
+            "stopCount": 0,
+            "eTicketable": true,
+            "totalMilesFlown": 306,
+            "elapsedTime": 90,
+            "departure": {
+              "airport": "RUH",
+              "city": "RUH",
+              "country": "SA",
+              "time": "17:25:00+03:00",
+              "terminal": "2"
+            },
+            "arrival": {
+              "airport": "DOH",
+              "city": "DOH",
+              "country": "QA",
+              "time": "18:55:00+03:00"
+            },
+            "carrier": {
+              "marketing": "SV",
+              "marketingFlightNumber": 540,
+              "operating": "SV",
+              "operatingFlightNumber": 540,
+              "equipment": {
+                "code": "320",
+                "typeForFirstLeg": "N",
+                "typeForLastLeg": "N"
+              }
+            }
+          }
+        ],
+        "prices": [
+          {
+            "baseFare": 2128,
+            "taxAmount": 516.22,
+            "totalPrice": 2644.22,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 1064,
+                "passengerTax": 258.11,
+                "passengerTotalFare": 1322.11,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "H",
+                    "cabinCode": "Y",
+                    "mealCode": "N",
+                    "seatsAvailable": 4
+                  },
+                  {
+                    "bookingCode": "H",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  },
+                  {
+                    "bookingCode": "Y",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "directs": [
+      {
+        "totalTime": 250,
+        "ref": 15,
+        "flight": {
+          "id": 62,
+          "frequency": "**T****",
+          "stopCount": 0,
+          "eTicketable": true,
+          "totalMilesFlown": 1673,
+          "elapsedTime": 250,
+          "departure": {
+            "airport": "SAW",
+            "city": "IST",
+            "country": "TR",
+            "time": "19:20:00+03:00"
+          },
+          "arrival": {
+            "airport": "DOH",
+            "city": "DOH",
+            "country": "QA",
+            "time": "23:30:00+03:00"
+          },
+          "carrier": {
+            "marketing": "QR",
+            "marketingFlightNumber": 242,
+            "operating": "QR",
+            "operatingFlightNumber": 242,
+            "alliances": "OW ",
+            "equipment": {
+              "code": "788",
+              "typeForFirstLeg": "W",
+              "typeForLastLeg": "W"
+            }
+          }
+        },
+        "prices": [
+          {
+            "baseFare": 426,
+            "taxAmount": 230.86,
+            "totalPrice": 656.86,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 213,
+                "passengerTax": 115.43,
+                "passengerTotalFare": 328.43,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "N",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 255,
+        "ref": 17,
+        "flight": {
+          "id": 60,
+          "frequency": "SMT*TFS",
+          "stopCount": 0,
+          "eTicketable": true,
+          "totalMilesFlown": 1673,
+          "elapsedTime": 255,
+          "departure": {
+            "airport": "SAW",
+            "city": "IST",
+            "country": "TR",
+            "time": "22:40:00+03:00"
+          },
+          "arrival": {
+            "airport": "DOH",
+            "city": "DOH",
+            "country": "QA",
+            "time": "02:55:00+03:00",
+            "dateAdjustment": 1
+          },
+          "carrier": {
+            "marketing": "PC",
+            "marketingFlightNumber": 602,
+            "operating": "PC",
+            "operatingFlightNumber": 602,
+            "equipment": {
+              "code": "320",
+              "typeForFirstLeg": "N",
+              "typeForLastLeg": "N"
+            }
+          }
+        },
+        "prices": [
+          {
+            "baseFare": 202,
+            "taxAmount": 103.1,
+            "totalPrice": 305.1,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": true,
+                "passengerBaseFare": 101,
+                "passengerTax": 51.55,
+                "passengerTotalFare": 152.55,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "G",
+                    "cabinCode": "Y",
+                    "mealCode": "N",
+                    "seatsAvailable": 4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 244,
+        "ref": 21,
+        "flight": {
+          "id": 58,
+          "frequency": "SMTWTFS",
+          "stopCount": 0,
+          "eTicketable": true,
+          "totalMilesFlown": 1673,
+          "elapsedTime": 244,
+          "departure": {
+            "airport": "SAW",
+            "city": "IST",
+            "country": "TR",
+            "time": "19:55:00+03:00"
+          },
+          "arrival": {
+            "airport": "DOH",
+            "city": "DOH",
+            "country": "QA",
+            "time": "23:59:00+03:00"
+          },
+          "carrier": {
+            "marketing": "QR",
+            "marketingFlightNumber": 244,
+            "operating": "QR",
+            "operatingFlightNumber": 244,
+            "alliances": "OW ",
+            "equipment": {
+              "code": "333",
+              "typeForFirstLeg": "W",
+              "typeForLastLeg": "W"
+            }
+          }
+        },
+        "prices": [
+          {
+            "baseFare": 426,
+            "taxAmount": 230.86,
+            "totalPrice": 656.86,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 213,
+                "passengerTax": 115.43,
+                "passengerTotalFare": 328.43,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "N",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 250,
+        "ref": 25,
+        "flight": {
+          "id": 16,
+          "frequency": "SMTWTFS",
+          "stopCount": 0,
+          "eTicketable": true,
+          "totalMilesFlown": 1712,
+          "elapsedTime": 250,
+          "departure": {
+            "airport": "IST",
+            "city": "IST",
+            "country": "TR",
+            "time": "00:45:00+03:00"
+          },
+          "arrival": {
+            "airport": "DOH",
+            "city": "DOH",
+            "country": "QA",
+            "time": "04:55:00+03:00"
+          },
+          "carrier": {
+            "marketing": "TK",
+            "marketingFlightNumber": 782,
+            "operating": "TK",
+            "operatingFlightNumber": 782,
+            "equipment": {
+              "code": "321",
+              "typeForFirstLeg": "N",
+              "typeForLastLeg": "N"
+            }
+          }
+        },
+        "prices": [
+          {
+            "baseFare": 602,
+            "taxAmount": 176.9,
+            "totalPrice": 778.9,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": true,
+                "passengerBaseFare": 301,
+                "passengerTax": 88.45,
+                "passengerTotalFare": 389.45,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "Q",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 245,
+        "ref": 26,
+        "flight": {
+          "id": 17,
+          "frequency": "SMTWT*S",
+          "stopCount": 0,
+          "eTicketable": true,
+          "totalMilesFlown": 1712,
+          "elapsedTime": 245,
+          "departure": {
+            "airport": "IST",
+            "city": "IST",
+            "country": "TR",
+            "time": "20:00:00+03:00"
+          },
+          "arrival": {
+            "airport": "DOH",
+            "city": "DOH",
+            "country": "QA",
+            "time": "00:05:00+03:00",
+            "dateAdjustment": 1
+          },
+          "carrier": {
+            "marketing": "QR",
+            "marketingFlightNumber": 246,
+            "operating": "QR",
+            "operatingFlightNumber": 246,
+            "alliances": "OW ",
+            "equipment": {
+              "code": "77W",
+              "typeForFirstLeg": "W",
+              "typeForLastLeg": "W"
+            }
+          }
+        },
+        "prices": [
+          {
+            "baseFare": 440,
+            "taxAmount": 242.66,
+            "totalPrice": 682.66,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 220,
+                "passengerTax": 121.33,
+                "passengerTotalFare": 341.33,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "N",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 255,
+        "ref": 31,
+        "flight": {
+          "id": 13,
+          "frequency": "SMTWTFS",
+          "stopCount": 0,
+          "eTicketable": true,
+          "totalMilesFlown": 1712,
+          "elapsedTime": 255,
+          "departure": {
+            "airport": "IST",
+            "city": "IST",
+            "country": "TR",
+            "time": "20:30:00+03:00"
+          },
+          "arrival": {
+            "airport": "DOH",
+            "city": "DOH",
+            "country": "QA",
+            "time": "00:45:00+03:00",
+            "dateAdjustment": 1
+          },
+          "carrier": {
+            "marketing": "TK",
+            "marketingFlightNumber": 780,
+            "operating": "TK",
+            "operatingFlightNumber": 780,
+            "equipment": {
+              "code": "332",
+              "typeForFirstLeg": "W",
+              "typeForLastLeg": "W"
+            }
+          }
+        },
+        "prices": [
+          {
+            "baseFare": 602,
+            "taxAmount": 176.9,
+            "totalPrice": 778.9,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": true,
+                "passengerBaseFare": 301,
+                "passengerTax": 88.45,
+                "passengerTotalFare": 389.45,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "Q",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 245,
+        "ref": 33,
+        "flight": {
+          "id": 5,
+          "frequency": "SMTWTFS",
+          "stopCount": 0,
+          "eTicketable": true,
+          "totalMilesFlown": 1712,
+          "elapsedTime": 245,
+          "departure": {
+            "airport": "IST",
+            "city": "IST",
+            "country": "TR",
+            "time": "13:05:00+03:00"
+          },
+          "arrival": {
+            "airport": "DOH",
+            "city": "DOH",
+            "country": "QA",
+            "time": "17:10:00+03:00"
+          },
+          "carrier": {
+            "marketing": "QR",
+            "marketingFlightNumber": 240,
+            "operating": "QR",
+            "operatingFlightNumber": 240,
+            "alliances": "OW ",
+            "equipment": {
+              "code": "77W",
+              "typeForFirstLeg": "W",
+              "typeForLastLeg": "W"
+            }
+          }
+        },
+        "prices": [
+          {
+            "baseFare": 440,
+            "taxAmount": 242.66,
+            "totalPrice": 682.66,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 220,
+                "passengerTax": 121.33,
+                "passengerTotalFare": 341.33,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "N",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 245,
+        "ref": 42,
+        "flight": {
+          "id": 28,
+          "frequency": "SMTWTFS",
+          "stopCount": 0,
+          "eTicketable": true,
+          "totalMilesFlown": 1673,
+          "elapsedTime": 245,
+          "departure": {
+            "airport": "SAW",
+            "city": "IST",
+            "country": "TR",
+            "time": "22:25:00+03:00"
+          },
+          "arrival": {
+            "airport": "DOH",
+            "city": "DOH",
+            "country": "QA",
+            "time": "02:30:00+03:00",
+            "dateAdjustment": 1
+          },
+          "carrier": {
+            "marketing": "QR",
+            "marketingFlightNumber": 238,
+            "operating": "QR",
+            "operatingFlightNumber": 238,
+            "alliances": "OW ",
+            "equipment": {
+              "code": "320",
+              "typeForFirstLeg": "N",
+              "typeForLastLeg": "N"
+            }
+          }
+        },
+        "prices": [
+          {
+            "baseFare": 426,
+            "taxAmount": 230.86,
+            "totalPrice": 656.86,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": false,
+                "passengerBaseFare": 213,
+                "passengerTax": 115.43,
+                "passengerTotalFare": 328.43,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "N",
+                    "cabinCode": "Y",
+                    "mealCode": "M",
+                    "seatsAvailable": 9
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "totalTime": 255,
+        "ref": 50,
+        "flight": {
+          "id": 26,
+          "frequency": "**TW***",
+          "stopCount": 0,
+          "eTicketable": true,
+          "totalMilesFlown": 1673,
+          "elapsedTime": 255,
+          "departure": {
+            "airport": "SAW",
+            "city": "IST",
+            "country": "TR",
+            "time": "20:45:00+03:00"
+          },
+          "arrival": {
+            "airport": "DOH",
+            "city": "DOH",
+            "country": "QA",
+            "time": "01:00:00+03:00",
+            "dateAdjustment": 1
+          },
+          "carrier": {
+            "marketing": "PC",
+            "marketingFlightNumber": 614,
+            "operating": "PC",
+            "operatingFlightNumber": 614,
+            "equipment": {
+              "code": "320",
+              "typeForFirstLeg": "N",
+              "typeForLastLeg": "N"
+            }
+          }
+        },
+        "prices": [
+          {
+            "baseFare": 202,
+            "taxAmount": 103.1,
+            "totalPrice": 305.1,
+            "currency": "USD",
+            "passengerPricing": [
+              {
+                "passengerType": "ADT",
+                "passengerCount": 2,
+                "nonRefundable": true,
+                "passengerBaseFare": 101,
+                "passengerTax": 51.55,
+                "passengerTotalFare": 152.55,
+                "passengerFareComponents": [
+                  {
+                    "bookingCode": "G",
+                    "cabinCode": "Y",
+                    "mealCode": "N",
+                    "seatsAvailable": 4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

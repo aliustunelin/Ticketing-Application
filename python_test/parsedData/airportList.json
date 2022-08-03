@@ -1,0 +1,1976 @@
+{
+  "type": "airportInsert",
+  "data": {
+    "cities": [
+      {
+        "code": "AUH",
+        "name": "Abu Dhabi",
+        "countryCode": "AE"
+      },
+      {
+        "code": "ALY",
+        "name": "Alexandria",
+        "countryCode": "EG"
+      },
+      {
+        "code": "LTS",
+        "name": "Altus",
+        "countryCode": "US"
+      },
+      {
+        "code": "ANK",
+        "name": "Ankara",
+        "countryCode": "TR"
+      },
+      {
+        "code": "AIY",
+        "name": "Atlantic City",
+        "countryCode": "US"
+      },
+      {
+        "code": "BAK",
+        "name": "Baku",
+        "countryCode": "AZ"
+      },
+      {
+        "code": "BKK",
+        "name": "Bangkok",
+        "countryCode": "TH"
+      },
+      {
+        "code": "EAP",
+        "name": "Basel",
+        "countryCode": "CH"
+      },
+      {
+        "code": "BJS",
+        "name": "Beijing",
+        "countryCode": "CN"
+      },
+      {
+        "code": "BFS",
+        "name": "Belfast",
+        "countryCode": "GB"
+      },
+      {
+        "code": "BHZ",
+        "name": "Belo Horizonte",
+        "countryCode": "BR"
+      },
+      {
+        "code": "BER",
+        "name": "Berlin",
+        "countryCode": "DE"
+      },
+      {
+        "code": "BXN",
+        "name": "Bodrum",
+        "countryCode": "TR"
+      },
+      {
+        "code": "BRU",
+        "name": "Brussels",
+        "countryCode": "BE"
+      },
+      {
+        "code": "BUH",
+        "name": "Bucharest",
+        "countryCode": "RO"
+      },
+      {
+        "code": "BUE",
+        "name": "Buenos Aires",
+        "countryCode": "AR"
+      },
+      {
+        "code": "CAS",
+        "name": "Casablanca",
+        "countryCode": "MA"
+      },
+      {
+        "code": "WCA",
+        "name": "Castro",
+        "countryCode": "CL"
+      },
+      {
+        "code": "CHI",
+        "name": "Chicago",
+        "countryCode": "US"
+      },
+      {
+        "code": "CVG",
+        "name": "Cincinnati",
+        "countryCode": "US"
+      },
+      {
+        "code": "CSM",
+        "name": "Clinton",
+        "countryCode": "US"
+      },
+      {
+        "code": "CGN",
+        "name": "Cologne",
+        "countryCode": "DE"
+      },
+      {
+        "code": "QDF",
+        "name": "Dallas - Fort Worth",
+        "countryCode": "US"
+      },
+      {
+        "code": "DTT",
+        "name": "Detroit",
+        "countryCode": "US"
+      },
+      {
+        "code": "DXB",
+        "name": "Dubai",
+        "countryCode": "AE"
+      },
+      {
+        "code": "DUS",
+        "name": "Dusseldorf",
+        "countryCode": "DE"
+      },
+      {
+        "code": "YEA",
+        "name": "Edmonton",
+        "countryCode": "CA"
+      },
+      {
+        "code": "ENS",
+        "name": "Enschede",
+        "countryCode": "NL"
+      },
+      {
+        "code": "FYV",
+        "name": "Fayetteville",
+        "countryCode": "US"
+      },
+      {
+        "code": "FLR",
+        "name": "Florence",
+        "countryCode": "IT"
+      },
+      {
+        "code": "FMY",
+        "name": "Fort Myers",
+        "countryCode": "US"
+      },
+      {
+        "code": "HAR",
+        "name": "Harrisburg",
+        "countryCode": "US"
+      },
+      {
+        "code": "HFD",
+        "name": "Hartford",
+        "countryCode": "US"
+      },
+      {
+        "code": "QHO",
+        "name": "Houston",
+        "countryCode": "US"
+      },
+      {
+        "code": "IST",
+        "name": "Istanbul",
+        "countryCode": "TR"
+      },
+      {
+        "code": "IZM",
+        "name": "Izmir",
+        "countryCode": "TR"
+      },
+      {
+        "code": "JKT",
+        "name": "Jakarta",
+        "countryCode": "ID"
+      },
+      {
+        "code": "MKC",
+        "name": "Kansas City",
+        "countryCode": "US"
+      },
+      {
+        "code": "IEV",
+        "name": "Kiev",
+        "countryCode": "UA"
+      },
+      {
+        "code": "ILE",
+        "name": "Killeen",
+        "countryCode": "US"
+      },
+      {
+        "code": "KUL",
+        "name": "Kuala Lumpur",
+        "countryCode": "MY"
+      },
+      {
+        "code": "LIL",
+        "name": "Lille",
+        "countryCode": "FR"
+      },
+      {
+        "code": "LNZ",
+        "name": "Linz",
+        "countryCode": "AT"
+      },
+      {
+        "code": "LON",
+        "name": "London",
+        "countryCode": "GB"
+      },
+      {
+        "code": "LYS",
+        "name": "Lyon",
+        "countryCode": "FR"
+      },
+      {
+        "code": "MMA",
+        "name": "Malmo",
+        "countryCode": "SE"
+      },
+      {
+        "code": "MES",
+        "name": "Medan",
+        "countryCode": "BE"
+      },
+      {
+        "code": "MEL",
+        "name": "Melbourne",
+        "countryCode": "AU"
+      },
+      {
+        "code": "MIL",
+        "name": "Milan",
+        "countryCode": "IT"
+      },
+      {
+        "code": "MLW",
+        "name": "Monrovia",
+        "countryCode": "LR"
+      },
+      {
+        "code": "YMQ",
+        "name": "Montreal",
+        "countryCode": "CA"
+      },
+      {
+        "code": "MOW",
+        "name": "Moscow",
+        "countryCode": "RU"
+      },
+      {
+        "code": "NYC",
+        "name": "New York",
+        "countryCode": "US"
+      },
+      {
+        "code": "NHA",
+        "name": "Nha Trang",
+        "countryCode": "VN"
+      },
+      {
+        "code": "NQT",
+        "name": "Nottingham",
+        "countryCode": "GB"
+      },
+      {
+        "code": "ORL",
+        "name": "Orlando",
+        "countryCode": "US"
+      },
+      {
+        "code": "OSA",
+        "name": "Osaka",
+        "countryCode": "JP"
+      },
+      {
+        "code": "OSL",
+        "name": "Oslo",
+        "countryCode": "NO"
+      },
+      {
+        "code": "YOW",
+        "name": "Ottawa",
+        "countryCode": "CA"
+      },
+      {
+        "code": "PFN",
+        "name": "Panama City",
+        "countryCode": "US"
+      },
+      {
+        "code": "PAR",
+        "name": "Paris",
+        "countryCode": "FR"
+      },
+      {
+        "code": "QPH",
+        "name": "Philadelphia",
+        "countryCode": "US"
+      },
+      {
+        "code": "REK",
+        "name": "Reykjavik",
+        "countryCode": "IS"
+      },
+      {
+        "code": "RIO",
+        "name": "Rio De Janeiro",
+        "countryCode": "BR"
+      },
+      {
+        "code": "ROM",
+        "name": "Rome",
+        "countryCode": "IT"
+      },
+      {
+        "code": "SSX",
+        "name": "Samsun",
+        "countryCode": "TR"
+      },
+      {
+        "code": "SRZ",
+        "name": "Santa Cruz",
+        "countryCode": "BO"
+      },
+      {
+        "code": "SAO",
+        "name": "Sao Paulo",
+        "countryCode": "BR"
+      },
+      {
+        "code": "SPK",
+        "name": "Sapporo",
+        "countryCode": "JP"
+      },
+      {
+        "code": "SSM",
+        "name": "Sault Ste Marie",
+        "countryCode": "US"
+      },
+      {
+        "code": "SEA",
+        "name": "Seattle",
+        "countryCode": "US"
+      },
+      {
+        "code": "SEL",
+        "name": "Seoul",
+        "countryCode": "KR"
+      },
+      {
+        "code": "SHA",
+        "name": "Shanghai",
+        "countryCode": "CN"
+      },
+      {
+        "code": "SDZ",
+        "name": "Shetland Islands",
+        "countryCode": "GB"
+      },
+      {
+        "code": "SFY",
+        "name": "Springfield",
+        "countryCode": "US"
+      },
+      {
+        "code": "STX",
+        "name": "St Croix Island",
+        "countryCode": "VI"
+      },
+      {
+        "code": "SLU",
+        "name": "St Lucia",
+        "countryCode": "LC"
+      },
+      {
+        "code": "SBS",
+        "name": "Steamboat Springs",
+        "countryCode": "US"
+      },
+      {
+        "code": "STO",
+        "name": "Stockholm",
+        "countryCode": "SE"
+      },
+      {
+        "code": "SXB",
+        "name": "Strasbourg",
+        "countryCode": "FR"
+      },
+      {
+        "code": "STR",
+        "name": "Stuttgart",
+        "countryCode": "DE"
+      },
+      {
+        "code": "TPE",
+        "name": "Taipei",
+        "countryCode": "TW"
+      },
+      {
+        "code": "QUF",
+        "name": "Tallinn",
+        "countryCode": "EE"
+      },
+      {
+        "code": "TPA",
+        "name": "Tampa - St Petersburg",
+        "countryCode": "US"
+      },
+      {
+        "code": "THR",
+        "name": "Tehran",
+        "countryCode": "IR"
+      },
+      {
+        "code": "TCI",
+        "name": "Tenerife",
+        "countryCode": "ES"
+      },
+      {
+        "code": "TYO",
+        "name": "Tokyo",
+        "countryCode": "JP"
+      },
+      {
+        "code": "YTO",
+        "name": "Toronto",
+        "countryCode": "CA"
+      },
+      {
+        "code": "ULY",
+        "name": "Ulyanovsk",
+        "countryCode": "RU"
+      },
+      {
+        "code": "VIE",
+        "name": "Vienna",
+        "countryCode": "AT"
+      },
+      {
+        "code": "WAS",
+        "name": "Washington",
+        "countryCode": "US"
+      },
+      {
+        "code": "SIA",
+        "name": "Xi An",
+        "countryCode": "CN"
+      }
+    ],
+    "regions": [
+      "Middle East",
+      "North America",
+      "Europe",
+      "Asia Pacific",
+      "Latin America",
+      "Africa"
+    ],
+    "countries": [
+      {
+        "code": "AE",
+        "name": "United Arab Emirates",
+        "region": "Middle East"
+      },
+      {
+        "code": "EG",
+        "name": "Egypt",
+        "region": "Middle East"
+      },
+      {
+        "code": "US",
+        "name": "United States",
+        "region": "North America"
+      },
+      {
+        "code": "TR",
+        "name": "Turkey",
+        "region": "Europe"
+      },
+      {
+        "code": "AZ",
+        "name": "Azerbaijan",
+        "region": "Europe"
+      },
+      {
+        "code": "TH",
+        "name": "Thailand",
+        "region": "Asia Pacific"
+      },
+      {
+        "code": "CH",
+        "name": "Switzerland",
+        "region": "Europe"
+      },
+      {
+        "code": "CN",
+        "name": "China",
+        "region": "Asia Pacific"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom",
+        "region": "Europe"
+      },
+      {
+        "code": "BR",
+        "name": "Brazil",
+        "region": "Latin America"
+      },
+      {
+        "code": "DE",
+        "name": "Germany",
+        "region": "Europe"
+      },
+      {
+        "code": "BE",
+        "name": "Belgium",
+        "region": "Europe"
+      },
+      {
+        "code": "RO",
+        "name": "Romania",
+        "region": "Europe"
+      },
+      {
+        "code": "AR",
+        "name": "Argentina",
+        "region": "Latin America"
+      },
+      {
+        "code": "MA",
+        "name": "Morocco",
+        "region": "Africa"
+      },
+      {
+        "code": "CL",
+        "name": "Chile",
+        "region": "Latin America"
+      },
+      {
+        "code": "CA",
+        "name": "Canada",
+        "region": "North America"
+      },
+      {
+        "code": "NL",
+        "name": "Netherlands",
+        "region": "Europe"
+      },
+      {
+        "code": "IT",
+        "name": "Italy",
+        "region": "Europe"
+      },
+      {
+        "code": "ID",
+        "name": "Indonesia",
+        "region": "Asia Pacific"
+      },
+      {
+        "code": "UA",
+        "name": "Ukraine",
+        "region": "Europe"
+      },
+      {
+        "code": "MY",
+        "name": "Malaysia",
+        "region": "Asia Pacific"
+      },
+      {
+        "code": "FR",
+        "name": "France",
+        "region": "Europe"
+      },
+      {
+        "code": "AT",
+        "name": "Austria",
+        "region": "Europe"
+      },
+      {
+        "code": "SE",
+        "name": "Sweden",
+        "region": "Europe"
+      },
+      {
+        "code": "AU",
+        "name": "Australia",
+        "region": "Asia Pacific"
+      },
+      {
+        "code": "LR",
+        "name": "Liberia",
+        "region": "Africa"
+      },
+      {
+        "code": "RU",
+        "name": "Russian Federation",
+        "region": "Europe"
+      },
+      {
+        "code": "VN",
+        "name": "Viet Nam",
+        "region": "Asia Pacific"
+      },
+      {
+        "code": "JP",
+        "name": "Japan",
+        "region": "Asia Pacific"
+      },
+      {
+        "code": "NO",
+        "name": "Norway",
+        "region": "Europe"
+      },
+      {
+        "code": "IS",
+        "name": "Iceland",
+        "region": "Europe"
+      },
+      {
+        "code": "BO",
+        "name": "Bolivia",
+        "region": "Latin America"
+      },
+      {
+        "code": "KR",
+        "name": "Korea - Republic Of",
+        "region": "Asia Pacific"
+      },
+      {
+        "code": "VI",
+        "name": "Virgin Islands (U.S.)",
+        "region": "North America"
+      },
+      {
+        "code": "LC",
+        "name": "Saint Lucia",
+        "region": "North America"
+      },
+      {
+        "code": "TW",
+        "name": "Taiwan",
+        "region": "Asia Pacific"
+      },
+      {
+        "code": "EE",
+        "name": "Estonia",
+        "region": "Europe"
+      },
+      {
+        "code": "IR",
+        "name": "Iran (Islamic Republic Of)",
+        "region": "Middle East"
+      },
+      {
+        "code": "ES",
+        "name": "Spain",
+        "region": "Europe"
+      }
+    ],
+    "airports": [
+      {
+        "cityCode": "AUH",
+        "Airports": [
+          {
+            "code": "AUH",
+            "name": "Abu Dhabi Intl"
+          },
+          {
+            "code": "AZI",
+            "name": "Bateen"
+          }
+        ]
+      },
+      {
+        "cityCode": "ALY",
+        "Airports": [
+          {
+            "code": "HBE",
+            "name": "Borg El Arab"
+          },
+          {
+            "code": "ALY",
+            "name": "El Nohza"
+          }
+        ]
+      },
+      {
+        "cityCode": "LTS",
+        "Airports": [
+          {
+            "code": "AXS",
+            "name": "Municipal"
+          }
+        ]
+      },
+      {
+        "cityCode": "ANK",
+        "Airports": [
+          {
+            "code": "ESB",
+            "name": "Esenboga"
+          }
+        ]
+      },
+      {
+        "cityCode": "AIY",
+        "Airports": [
+          {
+            "code": "ACY",
+            "name": "Atlantic City International Airport"
+          },
+          {
+            "code": "AIY",
+            "name": "Bader Field"
+          }
+        ]
+      },
+      {
+        "cityCode": "BAK",
+        "Airports": [
+          {
+            "code": "GYD",
+            "name": "Heydar Aliyev"
+          },
+          {
+            "code": "ZXT",
+            "name": "Zabrat"
+          }
+        ]
+      },
+      {
+        "cityCode": "BKK",
+        "Airports": [
+          {
+            "code": "DMK",
+            "name": "Don Mueang"
+          },
+          {
+            "code": "BKK",
+            "name": "International"
+          }
+        ]
+      },
+      {
+        "cityCode": "EAP",
+        "Airports": [
+          {
+            "code": "MLH",
+            "name": "Euroairport French"
+          },
+          {
+            "code": "BSL",
+            "name": "Euroairport Swiss"
+          }
+        ]
+      },
+      {
+        "cityCode": "BJS",
+        "Airports": [
+          {
+            "code": "PEK",
+            "name": "Capital"
+          }
+        ]
+      },
+      {
+        "cityCode": "BFS",
+        "Airports": [
+          {
+            "code": "BHD",
+            "name": "Belfast City Airport"
+          },
+          {
+            "code": "BFS",
+            "name": "Belfast Intl Arpt"
+          }
+        ]
+      },
+      {
+        "cityCode": "BHZ",
+        "Airports": [
+          {
+            "code": "PLU",
+            "name": "Pampulha"
+          },
+          {
+            "code": "CNF",
+            "name": "Tancredo Neves Int'l."
+          }
+        ]
+      },
+      {
+        "cityCode": "BER",
+        "Airports": [
+          {
+            "code": "BER",
+            "name": "Berlin Metropolitan Area"
+          },
+          {
+            "code": "SXF",
+            "name": "Schoenefeld"
+          },
+          {
+            "code": "TXL",
+            "name": "Tegel"
+          }
+        ]
+      },
+      {
+        "cityCode": "BXN",
+        "Airports": [
+          {
+            "code": "BXN",
+            "name": "Imsik Airport"
+          },
+          {
+            "code": "BJV",
+            "name": "Milas Airport"
+          }
+        ]
+      },
+      {
+        "cityCode": "BRU",
+        "Airports": [
+          {
+            "code": "CRL",
+            "name": "Charleroi Brussels So"
+          },
+          {
+            "code": "BRU",
+            "name": "National"
+          }
+        ]
+      },
+      {
+        "cityCode": "BUH",
+        "Airports": [
+          {
+            "code": "BBU",
+            "name": "Baneasa"
+          },
+          {
+            "code": "OTP",
+            "name": "Otopeni International"
+          }
+        ]
+      },
+      {
+        "cityCode": "BUE",
+        "Airports": [
+          {
+            "code": "EZE",
+            "name": "Ministro Pistarini"
+          }
+        ]
+      },
+      {
+        "cityCode": "CAS",
+        "Airports": [
+          {
+            "code": "CMN",
+            "name": "Mohamed V"
+          }
+        ]
+      },
+      {
+        "cityCode": "WCA",
+        "Airports": [
+          {
+            "code": "WCA",
+            "name": "Gamboa"
+          },
+          {
+            "code": "MHC",
+            "name": "Mocopulli"
+          }
+        ]
+      },
+      {
+        "cityCode": "CHI",
+        "Airports": [
+          {
+            "code": "MDW",
+            "name": "Chicago Midway International Airport"
+          },
+          {
+            "code": "ORD",
+            "name": "Chicago O'Hare International Airport"
+          },
+          {
+            "code": "DPA",
+            "name": "Dupage County"
+          },
+          {
+            "code": "RFD",
+            "name": "Greater Rockford"
+          },
+          {
+            "code": "PWK",
+            "name": "Pal-Waukee"
+          },
+          {
+            "code": "GYY",
+            "name": "Regional"
+          }
+        ]
+      },
+      {
+        "cityCode": "CVG",
+        "Airports": [
+          {
+            "code": "CVG",
+            "name": "Cincinnati Northern Kentucky Internation"
+          },
+          {
+            "code": "LUK",
+            "name": "Municipal"
+          }
+        ]
+      },
+      {
+        "cityCode": "CSM",
+        "Airports": [
+          {
+            "code": "CLK",
+            "name": "Municipal"
+          }
+        ]
+      },
+      {
+        "cityCode": "CGN",
+        "Airports": [
+          {
+            "code": "CGN",
+            "name": "Cologne/Bonn"
+          }
+        ]
+      },
+      {
+        "cityCode": "QDF",
+        "Airports": [
+          {
+            "code": "DAL",
+            "name": "Dallas Love Field"
+          },
+          {
+            "code": "DFW",
+            "name": "Dallas/Fort Worth International Airport"
+          },
+          {
+            "code": "AFW",
+            "name": "Fort Worth Alliance"
+          },
+          {
+            "code": "FTW",
+            "name": "Meacham Field"
+          }
+        ]
+      },
+      {
+        "cityCode": "DTT",
+        "Airports": [
+          {
+            "code": "DET",
+            "name": "Detroit City"
+          },
+          {
+            "code": "DTW",
+            "name": "Detroit Metropolitan Wayne County Airpor"
+          },
+          {
+            "code": "ARB",
+            "name": "Municipal"
+          },
+          {
+            "code": "YIP",
+            "name": "Willow Run"
+          }
+        ]
+      },
+      {
+        "cityCode": "DXB",
+        "Airports": [
+          {
+            "code": "DWC",
+            "name": "Al Maktoum"
+          },
+          {
+            "code": "DXB",
+            "name": "Dubai International Airport"
+          }
+        ]
+      },
+      {
+        "cityCode": "DUS",
+        "Airports": [
+          {
+            "code": "DUS",
+            "name": "International"
+          },
+          {
+            "code": "MGL",
+            "name": "Moenchen-Gl. - Dus Exp"
+          },
+          {
+            "code": "NRN",
+            "name": "Weeze"
+          }
+        ]
+      },
+      {
+        "cityCode": "YEA",
+        "Airports": [
+          {
+            "code": "YEG",
+            "name": "International"
+          },
+          {
+            "code": "YXD",
+            "name": "Municipal"
+          }
+        ]
+      },
+      {
+        "cityCode": "ENS",
+        "Airports": []
+      },
+      {
+        "cityCode": "FYV",
+        "Airports": [
+          {
+            "code": "FYV",
+            "name": "Municipal (Drake Fld)"
+          },
+          {
+            "code": "XNA",
+            "name": "Northwest Arkansas Regional Airport"
+          }
+        ]
+      },
+      {
+        "cityCode": "FLR",
+        "Airports": [
+          {
+            "code": "FLR",
+            "name": "Peretola"
+          }
+        ]
+      },
+      {
+        "cityCode": "FMY",
+        "Airports": [
+          {
+            "code": "RSW",
+            "name": "Fort Myers Southwest Florida Internation"
+          },
+          {
+            "code": "FMY",
+            "name": "Page Field"
+          }
+        ]
+      },
+      {
+        "cityCode": "HAR",
+        "Airports": [
+          {
+            "code": "MDT",
+            "name": "Harrisburg International Airport"
+          }
+        ]
+      },
+      {
+        "cityCode": "HFD",
+        "Airports": [
+          {
+            "code": "BDL",
+            "name": "Bradley International Airport"
+          },
+          {
+            "code": "HFD",
+            "name": "Brainard"
+          }
+        ]
+      },
+      {
+        "cityCode": "QHO",
+        "Airports": [
+          {
+            "code": "EFD",
+            "name": "Ellington Field"
+          },
+          {
+            "code": "IAH",
+            "name": "Houston George Bush Intercontinental Air"
+          },
+          {
+            "code": "SGR",
+            "name": "Sugar Land Municipal"
+          },
+          {
+            "code": "HOU",
+            "name": "William P Hobby Airport"
+          }
+        ]
+      },
+      {
+        "cityCode": "IST",
+        "Airports": [
+          {
+            "code": "IST",
+            "name": "Ataturk"
+          },
+          {
+            "code": "SAW",
+            "name": "Sabilha Gokcen"
+          }
+        ]
+      },
+      {
+        "cityCode": "IZM",
+        "Airports": [
+          {
+            "code": "ADB",
+            "name": "Adnan Menderes Arpt"
+          },
+          {
+            "code": "IGL",
+            "name": "Cigli Military Arpt"
+          }
+        ]
+      },
+      {
+        "cityCode": "JKT",
+        "Airports": [
+          {
+            "code": "HLP",
+            "name": "Halim Perdana Kusuma"
+          },
+          {
+            "code": "CGK",
+            "name": "Soekarno-Hatta Intl"
+          }
+        ]
+      },
+      {
+        "cityCode": "MKC",
+        "Airports": [
+          {
+            "code": "MKC",
+            "name": "Downtown"
+          },
+          {
+            "code": "MCI",
+            "name": "Kansas City International Airport"
+          }
+        ]
+      },
+      {
+        "cityCode": "IEV",
+        "Airports": [
+          {
+            "code": "KBP",
+            "name": "Borispol"
+          },
+          {
+            "code": "IEV",
+            "name": "Zhulhany"
+          }
+        ]
+      },
+      {
+        "cityCode": "ILE",
+        "Airports": [
+          {
+            "code": "ILE",
+            "name": "Municipal"
+          }
+        ]
+      },
+      {
+        "cityCode": "KUL",
+        "Airports": [
+          {
+            "code": "KUL",
+            "name": "Kuala Lumpur Int'l"
+          },
+          {
+            "code": "SZB",
+            "name": "Sultan Abdul Aziz Shah"
+          }
+        ]
+      },
+      {
+        "cityCode": "LIL",
+        "Airports": [
+          {
+            "code": "LIL",
+            "name": "Lesquin"
+          }
+        ]
+      },
+      {
+        "cityCode": "LNZ",
+        "Airports": [
+          {
+            "code": "LNZ",
+            "name": "Hoersching"
+          }
+        ]
+      },
+      {
+        "cityCode": "LON",
+        "Airports": [
+          {
+            "code": "BQH",
+            "name": "Biggin Hill"
+          },
+          {
+            "code": "LGW",
+            "name": "Gatwick"
+          },
+          {
+            "code": "LHR",
+            "name": "Heathrow"
+          },
+          {
+            "code": "LCY",
+            "name": "London City Airport"
+          },
+          {
+            "code": "LTN",
+            "name": "Luton Airport"
+          },
+          {
+            "code": "SEN",
+            "name": "Municipal"
+          },
+          {
+            "code": "STN",
+            "name": "Stansted"
+          }
+        ]
+      },
+      {
+        "cityCode": "LYS",
+        "Airports": [
+          {
+            "code": "LYN",
+            "name": "Bron"
+          },
+          {
+            "code": "GNB",
+            "name": "Saint Geoirs"
+          },
+          {
+            "code": "LYS",
+            "name": "Satolas"
+          }
+        ]
+      },
+      {
+        "cityCode": "MMA",
+        "Airports": [
+          {
+            "code": "MMX",
+            "name": "Sturup"
+          }
+        ]
+      },
+      {
+        "cityCode": "MES",
+        "Airports": [
+          {
+            "code": "KNO",
+            "name": "Knokke/Het Zoute"
+          },
+          {
+            "code": "MES",
+            "name": "Polania"
+          }
+        ]
+      },
+      {
+        "cityCode": "MEL",
+        "Airports": [
+          {
+            "code": "AVV",
+            "name": "Avalon"
+          },
+          {
+            "code": "MEB",
+            "name": "Essendon"
+          },
+          {
+            "code": "MBW",
+            "name": "Moorabbin"
+          },
+          {
+            "code": "MEL",
+            "name": "Tullamarine"
+          }
+        ]
+      },
+      {
+        "cityCode": "MIL",
+        "Airports": [
+          {
+            "code": "LIN",
+            "name": "Linate"
+          },
+          {
+            "code": "MXP",
+            "name": "Malpensa"
+          },
+          {
+            "code": "BGY",
+            "name": "Orio Al Serio"
+          },
+          {
+            "code": "PMF",
+            "name": "Parma"
+          }
+        ]
+      },
+      {
+        "cityCode": "MLW",
+        "Airports": [
+          {
+            "code": "ROB",
+            "name": "Roberts Intl"
+          },
+          {
+            "code": "MLW",
+            "name": "Sprigg Payne"
+          }
+        ]
+      },
+      {
+        "cityCode": "YMQ",
+        "Airports": [
+          {
+            "code": "YMX",
+            "name": "Mirabel"
+          },
+          {
+            "code": "YUL",
+            "name": "Pierre Elliott Trudeau"
+          },
+          {
+            "code": "YHU",
+            "name": "St Hubert"
+          }
+        ]
+      },
+      {
+        "cityCode": "MOW",
+        "Airports": [
+          {
+            "code": "BKA",
+            "name": "Bykovo"
+          },
+          {
+            "code": "DME",
+            "name": "Domodedovo"
+          },
+          {
+            "code": "SVO",
+            "name": "Sheremetyevo"
+          },
+          {
+            "code": "VKO",
+            "name": "Vnukovo"
+          }
+        ]
+      },
+      {
+        "cityCode": "NYC",
+        "Airports": [
+          {
+            "code": "JFK",
+            "name": "John F. Kennedy International Airport"
+          },
+          {
+            "code": "LGA",
+            "name": "LaGuardia Airport"
+          },
+          {
+            "code": "EWR",
+            "name": "Newark Liberty International Airport"
+          },
+          {
+            "code": "SWF",
+            "name": "Stewart International Airport"
+          }
+        ]
+      },
+      {
+        "cityCode": "NHA",
+        "Airports": [
+          {
+            "code": "CXR",
+            "name": "Cam Ranh International"
+          }
+        ]
+      },
+      {
+        "cityCode": "NQT",
+        "Airports": [
+          {
+            "code": "EMA",
+            "name": "East Midlands"
+          },
+          {
+            "code": "NQT",
+            "name": "Nottingham Airport"
+          }
+        ]
+      },
+      {
+        "cityCode": "ORL",
+        "Airports": [
+          {
+            "code": "ORL",
+            "name": "Herndon"
+          },
+          {
+            "code": "MCO",
+            "name": "Orlando International Airport"
+          },
+          {
+            "code": "SFB",
+            "name": "Orlando Sanford"
+          },
+          {
+            "code": "DWS",
+            "name": "Walt Disney World"
+          }
+        ]
+      },
+      {
+        "cityCode": "OSA",
+        "Airports": [
+          {
+            "code": "ITM",
+            "name": "Itami"
+          },
+          {
+            "code": "KIX",
+            "name": "Kansai International"
+          },
+          {
+            "code": "UKB",
+            "name": "Kobe"
+          }
+        ]
+      },
+      {
+        "cityCode": "OSL",
+        "Airports": [
+          {
+            "code": "RYG",
+            "name": "Moss-Rygge"
+          },
+          {
+            "code": "OSL",
+            "name": "Oslo Airport"
+          },
+          {
+            "code": "TRF",
+            "name": "Sandefjord"
+          }
+        ]
+      },
+      {
+        "cityCode": "YOW",
+        "Airports": [
+          {
+            "code": "YND",
+            "name": "Gatineau"
+          },
+          {
+            "code": "YOW",
+            "name": "International"
+          },
+          {
+            "code": "YRO",
+            "name": "Rockcliffe St"
+          }
+        ]
+      },
+      {
+        "cityCode": "PFN",
+        "Airports": [
+          {
+            "code": "PFN",
+            "name": "Bay County"
+          },
+          {
+            "code": "ECP",
+            "name": "Northwest Florida Beaches International"
+          }
+        ]
+      },
+      {
+        "cityCode": "PAR",
+        "Airports": [
+          {
+            "code": "BVA",
+            "name": "Beauvais-Tille Airport"
+          },
+          {
+            "code": "CDG",
+            "name": "Ch. De Gaulle"
+          },
+          {
+            "code": "LBG",
+            "name": "Le Bourget"
+          },
+          {
+            "code": "ORY",
+            "name": "Orly"
+          },
+          {
+            "code": "POX",
+            "name": "Paris Cergy Pontoise"
+          },
+          {
+            "code": "XCR",
+            "name": "Vatry Airport"
+          }
+        ]
+      },
+      {
+        "cityCode": "QPH",
+        "Airports": [
+          {
+            "code": "MUV",
+            "name": "Mustin Airfield"
+          },
+          {
+            "code": "PNE",
+            "name": "North Philadelphia"
+          },
+          {
+            "code": "PHL",
+            "name": "Philadelphia International Airport"
+          },
+          {
+            "code": "TTN",
+            "name": "Trenton-Mercer"
+          }
+        ]
+      },
+      {
+        "cityCode": "REK",
+        "Airports": [
+          {
+            "code": "KEF",
+            "name": "Keflavik International"
+          },
+          {
+            "code": "RKV",
+            "name": "Reykjavik Domestic"
+          }
+        ]
+      },
+      {
+        "cityCode": "RIO",
+        "Airports": [
+          {
+            "code": "GIG",
+            "name": "Internacional"
+          },
+          {
+            "code": "SDU",
+            "name": "Santos Dumont"
+          }
+        ]
+      },
+      {
+        "cityCode": "ROM",
+        "Airports": [
+          {
+            "code": "CIA",
+            "name": "Ciampino"
+          },
+          {
+            "code": "FCO",
+            "name": "Fiumicino"
+          }
+        ]
+      },
+      {
+        "cityCode": "SSX",
+        "Airports": [
+          {
+            "code": "SZF",
+            "name": "Carsamba"
+          }
+        ]
+      },
+      {
+        "cityCode": "SRZ",
+        "Airports": [
+          {
+            "code": "SRZ",
+            "name": "El Trompillo"
+          },
+          {
+            "code": "VVI",
+            "name": "Viru Viru Intl"
+          }
+        ]
+      },
+      {
+        "cityCode": "SAO",
+        "Airports": [
+          {
+            "code": "CGH",
+            "name": "Congonhas"
+          },
+          {
+            "code": "GRU",
+            "name": "Guarulhos Intl"
+          },
+          {
+            "code": "VCP",
+            "name": "Viracopos"
+          }
+        ]
+      },
+      {
+        "cityCode": "SPK",
+        "Airports": [
+          {
+            "code": "CTS",
+            "name": "Chitose"
+          },
+          {
+            "code": "OKD",
+            "name": "Okadama"
+          }
+        ]
+      },
+      {
+        "cityCode": "SSM",
+        "Airports": [
+          {
+            "code": "CIU",
+            "name": "Chippewa County"
+          }
+        ]
+      },
+      {
+        "cityCode": "SEA",
+        "Airports": [
+          {
+            "code": "BFI",
+            "name": "Boeing Fld Intl"
+          },
+          {
+            "code": "SEA",
+            "name": "Seattle Tacoma International Airport"
+          },
+          {
+            "code": "PAE",
+            "name": "Snohomish County"
+          }
+        ]
+      },
+      {
+        "cityCode": "SEL",
+        "Airports": [
+          {
+            "code": "GMP",
+            "name": "Gimpo Int'l"
+          },
+          {
+            "code": "ICN",
+            "name": "Incheon Int'l Airport"
+          }
+        ]
+      },
+      {
+        "cityCode": "SHA",
+        "Airports": [
+          {
+            "code": "SHA",
+            "name": "Hongqiao"
+          },
+          {
+            "code": "PVG",
+            "name": "Pu Dong"
+          }
+        ]
+      },
+      {
+        "cityCode": "SDZ",
+        "Airports": [
+          {
+            "code": "LWK",
+            "name": "Lerwick/Tingwall"
+          },
+          {
+            "code": "SCS",
+            "name": "Scatsta"
+          },
+          {
+            "code": "LSI",
+            "name": "Sumburgh"
+          }
+        ]
+      },
+      {
+        "cityCode": "SFY",
+        "Airports": []
+      },
+      {
+        "cityCode": "STX",
+        "Airports": [
+          {
+            "code": "STX",
+            "name": "Henry E. Rohlsen Airport"
+          }
+        ]
+      },
+      {
+        "cityCode": "SLU",
+        "Airports": [
+          {
+            "code": "UVF",
+            "name": "Hewanorra"
+          },
+          {
+            "code": "SLU",
+            "name": "Vigie"
+          }
+        ]
+      },
+      {
+        "cityCode": "SBS",
+        "Airports": [
+          {
+            "code": "SBS",
+            "name": "Steamboat Springs"
+          },
+          {
+            "code": "HDN",
+            "name": "Yampa Valley Regional Airport"
+          }
+        ]
+      },
+      {
+        "cityCode": "STO",
+        "Airports": [
+          {
+            "code": "ARN",
+            "name": "Arlanda"
+          },
+          {
+            "code": "BMA",
+            "name": "Bromma"
+          },
+          {
+            "code": "NYO",
+            "name": "Skavsta"
+          },
+          {
+            "code": "VST",
+            "name": "Vasteras/Hasslo"
+          }
+        ]
+      },
+      {
+        "cityCode": "SXB",
+        "Airports": [
+          {
+            "code": "SXB",
+            "name": "Entzheim"
+          }
+        ]
+      },
+      {
+        "cityCode": "STR",
+        "Airports": [
+          {
+            "code": "STR",
+            "name": "Echterdingen"
+          }
+        ]
+      },
+      {
+        "cityCode": "TPE",
+        "Airports": [
+          {
+            "code": "TPE",
+            "name": "Chiang Kai Shek"
+          },
+          {
+            "code": "TSA",
+            "name": "Sung Shan"
+          }
+        ]
+      },
+      {
+        "cityCode": "QUF",
+        "Airports": []
+      },
+      {
+        "cityCode": "TPA",
+        "Airports": [
+          {
+            "code": "PIE",
+            "name": "International"
+          },
+          {
+            "code": "TPF",
+            "name": "Peter O'knight"
+          },
+          {
+            "code": "TPA",
+            "name": "Tampa International Airport"
+          },
+          {
+            "code": "KYO",
+            "name": "Topp Of Tampa"
+          }
+        ]
+      },
+      {
+        "cityCode": "THR",
+        "Airports": [
+          {
+            "code": "IKA",
+            "name": "Imam Khomeini"
+          },
+          {
+            "code": "THR",
+            "name": "Mehrabad"
+          }
+        ]
+      },
+      {
+        "cityCode": "TCI",
+        "Airports": [
+          {
+            "code": "TFN",
+            "name": "Norte Los Rodeos"
+          },
+          {
+            "code": "TFS",
+            "name": "Sur Reina Sofia"
+          }
+        ]
+      },
+      {
+        "cityCode": "TYO",
+        "Airports": [
+          {
+            "code": "HND",
+            "name": "Haneda"
+          },
+          {
+            "code": "NRT",
+            "name": "Narita"
+          }
+        ]
+      },
+      {
+        "cityCode": "YTO",
+        "Airports": [
+          {
+            "code": "YKZ",
+            "name": "Buttonville"
+          },
+          {
+            "code": "YHM",
+            "name": "Hamilton"
+          },
+          {
+            "code": "YKF",
+            "name": "Kitchener-Waterloo Reg"
+          },
+          {
+            "code": "YYZ",
+            "name": "Pearson International"
+          },
+          {
+            "code": "YTZ",
+            "name": "Toronto Island"
+          }
+        ]
+      },
+      {
+        "cityCode": "ULY",
+        "Airports": [
+          {
+            "code": "ULV",
+            "name": "Ulyanovsk"
+          },
+          {
+            "code": "ULY",
+            "name": "Ulyanovsk East"
+          }
+        ]
+      },
+      {
+        "cityCode": "VIE",
+        "Airports": [
+          {
+            "code": "VIE",
+            "name": "Vienna International"
+          }
+        ]
+      },
+      {
+        "cityCode": "WAS",
+        "Airports": [
+          {
+            "code": "GBO",
+            "name": "Baltimore Greenbelt T"
+          },
+          {
+            "code": "BWI",
+            "name": "Baltimore/Washington International Thurg"
+          },
+          {
+            "code": "BZS",
+            "name": "Buzzards Pt S"
+          },
+          {
+            "code": "MTN",
+            "name": "Glenn L Martin"
+          },
+          {
+            "code": "DCA",
+            "name": "Ronald Reagan Washington National Airpor"
+          },
+          {
+            "code": "IAD",
+            "name": "Washington Dulles International Airport"
+          }
+        ]
+      },
+      {
+        "cityCode": "SIA",
+        "Airports": [
+          {
+            "code": "XIY",
+            "name": "Xianyang"
+          },
+          {
+            "code": "SIA",
+            "name": "Xiguan"
+          }
+        ]
+      }
+    ]
+  }
+}
