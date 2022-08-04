@@ -1,5 +1,5 @@
 # Ticketing-Application
-Python Flask flight ticket creation api gateway creation
+Python Flask flight ticket api gateway creation
 
 ![resim](https://user-images.githubusercontent.com/40759486/182633350-52ff5b89-012e-49cb-a0b6-213443a83faa.png)
 
