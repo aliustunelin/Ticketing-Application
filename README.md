@@ -22,7 +22,8 @@ In Turkey, biletal.com, enuygun.com, turna.com, ucuzbilet.com etc.
 ![fligsth_servers](https://user-images.githubusercontent.com/40759486/182635865-26476b73-e649-4c0a-bbd6-ca6a839d2c16.png)
 
 
-The ticketing process is based on 3 main basis. /search, /revalidate, /create Pnr.
+
+The ticketing process is based on 3 main basis. /search, /revalidate, /createPnr . 
 
 As expected, the /search section has a structure that searches the desired number of adult/child passengers for different requests, such as listing flights at desired intervals, direct flights, connecting flights, connecting flights and round-trip flights, and returns this quickly.
 
