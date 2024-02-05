@@ -37,4 +37,5 @@ That means too many services and you have to manage that too. This API-GATEWAY i
 
 /revalidate part is a method of guaranteeing that the selected flight in the flight search is still on sale at the time of purchase.
 
-/createPNR, The last step of the /createPnr ticketing process is to create the pnr. PNR is your trip code. Check-in vs. It is possible to detect your ticket with pnr in transactions. Passenger information is usually taken here.
+/createPNR, The last step of the /createPnr ticketing process is to create the pnr. PNR is your trip code. Check-in vs. It is possible to detect your ticket with pnr in transactions. <br> Passenger information is usually taken here.
+<br> This is a collabrative work
